@@ -1,0 +1,2061 @@
+[
+  {
+    "id": 13,
+    "tmdb_id": 14,
+    "imdb_id": "tt0169547",
+    "release_date": "1999-09-15",
+    "title": "American Beauty",
+    "runtime": 122,
+    "revenue": 356296601,
+    "tagline": "Look closer.",
+    "poster": "/wby9315QzVKdW9BonAefg8jGTTb.jpg",
+    "backdrop": "/DztBnZaqmla2sGUW9s8AyOmskT.jpg",
+    "ratings": { "popularity": 33.726578, "average": 8, "count": 10794 },
+    "details": {
+      "overview": "Lester Burnham, a depressed suburban father in a mid-life crisis, decides to turn his hectic life around after developing an infatuation with his daughter's attractive friend.",
+      "genres": [{ "id": 18, "name": "Drama" }]
+    }
+  },
+  {
+    "id": 91,
+    "tmdb_id": 24,
+    "imdb_id": "tt0266697",
+    "release_date": "2003-10-10",
+    "title": "Kill Bill: Vol. 1",
+    "runtime": 111,
+    "revenue": 180949000,
+    "tagline": "Go for the kill.",
+    "poster": "/v7TaX8kXMXs5yFFGR41guUDNcnB.jpg",
+    "backdrop": "/lVy5Zqcty2NfemqKYbVJfdg44rK.jpg",
+    "ratings": { "popularity": 44.261865, "average": 7.7, "count": 4949 },
+    "details": {
+      "overview": "An assassin is shot at the altar by her ruthless employer, Bill and other members of their assassination circle \u00c3\u00a2\u00e2\u0082\u00ac\u00e2\u0080\u009c but 'The Bride' lives to plot her vengeance. Setting out for some payback, she makes a death list and hunts down those who wronged her, saving Bill for last.",
+      "genres": [
+        { "id": 28, "name": "Action" },
+        { "id": 80, "name": "Crime" }
+      ]
+    }
+  },
+  {
+    "id": 1249,
+    "tmdb_id": 25,
+    "imdb_id": "tt0418763",
+    "release_date": "2005-11-04",
+    "title": "Jarhead",
+    "runtime": 125,
+    "revenue": 96889998,
+    "tagline": "Welcome to the suck.",
+    "poster": "/55WJCdayHwoXJwRv3prpqscHt2q.jpg",
+    "backdrop": "/bQ8fRUaitJvi54O2lUT6Ta7FVHK.jpg",
+    "ratings": { "popularity": 9.997032, "average": 6.6, "count": 765 },
+    "details": {
+      "overview": "Jarhead is a film about a US Marine Anthony Swofford\u00c3\u00a2\u00e2\u0082\u00ac\u00c5\u00a1\u00c3\u0083\u00e2\u0080\u009e\u00c3\u0083\u00c2\u00b4s experience in the Gulf War. After putting up with an arduous boot camp, Swafford and his unit are sent to the Persian Gulf where they are earger to fight but are forced to stay back from the action. Meanwhile Swofford gets news of his girlfriend is cheating on him. Desperately he wants to kill someone and finally put his training to use.",
+      "genres": [
+        { "id": 18, "name": "Drama" },
+        { "id": 10752, "name": "War" }
+      ]
+    }
+  },
+  {
+    "id": 2945,
+    "tmdb_id": 28,
+    "imdb_id": "tt0078788",
+    "release_date": "1979-08-15",
+    "title": "Apocalypse Now",
+    "runtime": 153,
+    "revenue": 89460381,
+    "tagline": "This is the end...",
+    "poster": "/gQB8Y5RCMkv2zwzFHbUJX3kAhvA.jpg",
+    "backdrop": "/9Qs9oyn4iE8QtQjGZ0Hp2WyYNXT.jpg",
+    "ratings": { "popularity": 42.5963, "average": 8, "count": 2055 },
+    "details": {
+      "overview": "At the height of the Vietnam war, Captain Benjamin Willard is sent on a dangerous mission that, officially, \"does not exist, nor will it ever exist.\" His goal is to locate - and eliminate - a mysterious Green Beret Colonel named Walter Kurtz, who has been leading his personal army on illegal guerrilla missions into enemy territory.",
+      "genres": [
+        { "id": 18, "name": "Drama" },
+        { "id": 10752, "name": "War" }
+      ]
+    }
+  },
+  {
+    "id": 204,
+    "tmdb_id": 35,
+    "imdb_id": "tt0462538",
+    "release_date": "2007-07-25",
+    "title": "The Simpsons Movie",
+    "runtime": 87,
+    "revenue": 527068851,
+    "tagline": "See our family. And feel better about yours.",
+    "poster": "/gzb6P78zeFTnv9eoFYnaJ2YrZ5q.jpg",
+    "backdrop": "/8ln5VUVk7gnNGIb2VNgw8nICDVt.jpg",
+    "ratings": { "popularity": 72.302911, "average": 6.9, "count": 2264 },
+    "details": {
+      "overview": "After Homer accidentally pollutes the town's water supply, Springfield is encased in a gigantic dome by the EPA and the Simpsons are declared fugitives.",
+      "genres": [
+        { "id": 16, "name": "Animation" },
+        { "id": 35, "name": "Comedy" },
+        { "id": 10751, "name": "Family" }
+      ]
+    }
+  },
+  {
+    "id": 816,
+    "tmdb_id": 59,
+    "imdb_id": "tt0399146",
+    "release_date": "2005-09-23",
+    "title": "A History of Violence",
+    "runtime": 96,
+    "revenue": 60740827,
+    "tagline": "Tom Stall had the perfect life... until he became a hero.",
+    "poster": "/rrc6GiAKHDrUjp8OmdVng9hRWBn.jpg",
+    "backdrop": "/5EEdDTV0IBxJ2J4jDUDvl076v7f.jpg",
+    "ratings": { "popularity": 25.119707, "average": 6.9, "count": 832 },
+    "details": {
+      "overview": "An average family is thrust into the spotlight after the father commits a seemingly self-defense murder at his diner.",
+      "genres": [
+        { "id": 18, "name": "Drama" },
+        { "id": 53, "name": "Thriller" },
+        { "id": 80, "name": "Crime" }
+      ]
+    }
+  },
+  {
+    "id": 914,
+    "tmdb_id": 66,
+    "imdb_id": "tt0118548",
+    "release_date": "1997-02-14",
+    "title": "Absolute Power",
+    "runtime": 121,
+    "revenue": 50068310,
+    "tagline": "Corrupts Absolutely.",
+    "poster": "/xX9gmwtnTi0Y8WcTF7Jsg9Hdp6W.jpg",
+    "backdrop": "/n7U0FEirHej1yQIy2mAzDtF9wBz.jpg",
+    "ratings": { "popularity": 15.66124, "average": 6.4, "count": 223 },
+    "details": {
+      "overview": "A master thief coincidentally is robbing a house where a murder in which the President of The United States is involved occurs in front of his eyes. He is forced to run yet may hold evidence that could convict the President. A political thriller from and starring Clint Eastwood and based on a novel by David Baldacci.",
+      "genres": [
+        { "id": 80, "name": "Crime" },
+        { "id": 18, "name": "Drama" },
+        { "id": 53, "name": "Thriller" }
+      ]
+    }
+  },
+  {
+    "id": 1235,
+    "tmdb_id": 69,
+    "imdb_id": "tt0358273",
+    "release_date": "2005-09-13",
+    "title": "Walk the Line",
+    "runtime": 136,
+    "revenue": 186438883,
+    "tagline": "Love is a burning thing.",
+    "poster": "/p8lPTjvjOjTfvC1E9pmMwcF9vkn.jpg",
+    "backdrop": "/pMBKzEotLUzk3NuQiyVjZEDlH70.jpg",
+    "ratings": { "popularity": 11.476443, "average": 7.3, "count": 718 },
+    "details": {
+      "overview": "A chronicle of country music legend Johnny Cash's life, from his early days on an Arkansas cotton farm to his rise to fame with Sun Records in Memphis, where he recorded alongside Elvis Presley, Jerry Lee Lewis and Carl Perkins.",
+      "genres": [
+        { "id": 18, "name": "Drama" },
+        { "id": 10402, "name": "Music" },
+        { "id": 10749, "name": "Romance" }
+      ]
+    }
+  },
+  {
+    "id": 1781,
+    "tmdb_id": 71,
+    "imdb_id": "tt0249462",
+    "release_date": "2000-05-18",
+    "title": "Billy Elliot",
+    "runtime": 110,
+    "revenue": 110000000,
+    "tagline": "Inside every one of us is a special talent waiting to come out. The trick is finding it.",
+    "poster": "/nOr5diUZxphmAD3li9aiILyI28F.jpg",
+    "backdrop": "/9B4198IzCI0POkUIVu5yQ2s7Pzr.jpg",
+    "ratings": { "popularity": 12.158424, "average": 7.4, "count": 750 },
+    "details": {
+      "overview": "Set against the background of the 1984 Miner's Strike, Billy Elliot is an 11 year old boy who stumbles out of the boxing ring and onto the ballet floor. He faces many trials and triumphs as he strives to conquer his family's set ways, inner conflict, and standing on his toes!",
+      "genres": [
+        { "id": 18, "name": "Drama" },
+        { "id": 35, "name": "Comedy" },
+        { "id": 10402, "name": "Music" }
+      ]
+    }
+  },
+  {
+    "id": 2356,
+    "tmdb_id": 73,
+    "imdb_id": "tt0120586",
+    "release_date": "1998-10-30",
+    "title": "American History X",
+    "runtime": 119,
+    "revenue": 23875127,
+    "tagline": "Some Legacies Must End.",
+    "poster": "/c2gsmSQ2Cqv8zosqKOCwRS0GFBS.jpg",
+    "backdrop": "/6qHI1IYj7QlLSCwHRzkL62X175s.jpg",
+    "ratings": { "popularity": 42.157166, "average": 8.2, "count": 3016 },
+    "details": {
+      "overview": "Derek Vineyard is paroled after serving 3 years in prison for killing two thugs who tried to break into/steal his truck. Through his brother, Danny Vineyard's narration, we learn that before going to prison, Derek was a skinhead and the leader of a violent white supremacist gang that committed acts of racial crime throughout L.A. and his actions greatly influenced Danny. Reformed and fresh out of prison, Derek severs contact with the gang and becomes determined to keep Danny from going down the same violent path as he did.",
+      "genres": [{ "id": 18, "name": "Drama" }]
+    }
+  },
+  {
+    "id": 1210,
+    "tmdb_id": 107,
+    "imdb_id": "tt0208092",
+    "release_date": "2000-09-01",
+    "title": "Snatch",
+    "runtime": 103,
+    "revenue": 83557872,
+    "tagline": "Stealin' Stones and Breakin' Bones.",
+    "poster": "/56mOJth6DJ6JhgoE2jtpilVqJO.jpg",
+    "backdrop": "/ysKahAEPP8h6MInuLjr0xuZOTjh.jpg",
+    "ratings": { "popularity": 35.014025, "average": 7.7, "count": 2912 },
+    "details": {
+      "overview": "The second film from British director Guy Ritchie. Snatch tells an obscure story similar to his first fast-paced crazy character-colliding filled film \u00c3\u00a2\u00e2\u0082\u00ac\u00c5\u00a1\u00c3\u0083\u00e2\u0080\u009e\u00c3\u0083\u00c2\u00baLock, Stock and Two Smoking Barrels.\u00c3\u00a2\u00e2\u0082\u00ac\u00c5\u00a1\u00c3\u0083\u00e2\u0080\u009e\u00c3\u0083\u00c2\u00b9 There are two overlapping stories here \u00c3\u00a2\u00e2\u0082\u00ac\u00c5\u00a1\u00c3\u0083\u00e2\u0080\u009e\u00c3\u0083\u00c2\u00ac one is the search for a stolen diamond, and the other about a boxing promoter who\u00c3\u00a2\u00e2\u0082\u00ac\u00c5\u00a1\u00c3\u0083\u00e2\u0080\u009e\u00c3\u0083\u00c2\u00b4s having trouble with a psychotic gangster.",
+      "genres": [
+        { "id": 53, "name": "Thriller" },
+        { "id": 80, "name": "Crime" }
+      ]
+    }
+  },
+  {
+    "id": 1453,
+    "tmdb_id": 111,
+    "imdb_id": "tt0086250",
+    "release_date": "1983-12-08",
+    "title": "Scarface",
+    "runtime": 170,
+    "revenue": 65884703,
+    "tagline": "The world is yours...",
+    "poster": "iQ5ztdjvteGeboxtmRdXEChJOHh.jpg",
+    "backdrop": "/1qM2BYNE11Viby8ImC9LC00DgDr.jpg",
+    "ratings": { "popularity": 57.299673, "average": 8, "count": 2948 },
+    "details": {
+      "overview": "After getting a green card in exchange for assassinating a Cuban government official, Tony Montana stakes a claim on the drug trade in Miami. Viciously murdering anyone who stands in his way, Tony eventually becomes the biggest drug lord in the state, controlling nearly all the cocaine that comes through Miami. But increased pressure from the police, wars with Colombian drug cartels and his own drug-fueled paranoia serve to fuel the flames of his eventual downfall.",
+      "genres": [
+        { "id": 28, "name": "Action" },
+        { "id": 80, "name": "Crime" },
+        { "id": 18, "name": "Drama" },
+        { "id": 53, "name": "Thriller" }
+      ]
+    }
+  },
+  {
+    "id": 115,
+    "tmdb_id": 120,
+    "imdb_id": "tt0120737",
+    "release_date": "2001-12-18",
+    "title": "The Lord of the Rings: The Fellowship of the Ring",
+    "runtime": 178,
+    "revenue": 871368364,
+    "tagline": "One ring to rule them all",
+    "poster": "/6oom5QYQ2yQTMJIbnvbkBL9cHo6.jpg",
+    "backdrop": "/tdmlSbLl84hfHx635AqHLB8Qh8M.jpg",
+    "ratings": { "popularity": 104.070725, "average": 8, "count": 8705 },
+    "details": {
+      "overview": "Young hobbit Frodo Baggins, after inheriting a mysterious ring from his uncle Bilbo, must leave his home in order to keep it from falling into the hands of its evil creator. Along the way, a fellowship is formed to protect the ringbearer and make sure that the ring arrives at its final destination: Mt. Doom, the only place where it can be destroyed.",
+      "genres": [
+        { "id": 12, "name": "Adventure" },
+        { "id": 14, "name": "Fantasy" },
+        { "id": 28, "name": "Action" }
+      ]
+    }
+  },
+  {
+    "id": 544,
+    "tmdb_id": 121,
+    "imdb_id": "tt0167261",
+    "release_date": "2002-12-18",
+    "title": "The Lord of the Rings: The Two Towers",
+    "runtime": 179,
+    "revenue": 926287400,
+    "tagline": "A New Power Is Rising.",
+    "poster": "/5VTN0pR8gcqV3EPUHHfMGnJYN9L.jpg",
+    "backdrop": "/kWYfW2Re0rUDE6IHhy4CRuKWeFr.jpg",
+    "ratings": { "popularity": 93.423537, "average": 8, "count": 7487 },
+    "details": {
+      "overview": "Frodo and Sam are trekking to Mordor to destroy the One Ring of Power while Gimli, Legolas and Aragorn search for the orc-captured Merry and Pippin. All along, nefarious wizard Saruman awaits the Fellowship members at the Orthanc Tower in Isengard.",
+      "genres": [
+        { "id": 12, "name": "Adventure" },
+        { "id": 14, "name": "Fantasy" },
+        { "id": 28, "name": "Action" }
+      ]
+    }
+  },
+  {
+    "id": 1780,
+    "tmdb_id": 137,
+    "imdb_id": "tt0107048",
+    "release_date": "1993-02-11",
+    "title": "Groundhog Day",
+    "runtime": 101,
+    "revenue": 70906973,
+    "tagline": "He's having the worst day of his life... over, and over...",
+    "poster": "/gCgt1WARPZaXnq523ySQEUKinCs.jpg",
+    "backdrop": "/ttBydD0SynC0TMkW3AcnmsySkLp.jpg",
+    "ratings": { "popularity": 32.989627, "average": 7.4, "count": 2301 },
+    "details": {
+      "overview": "A narcissistic TV weatherman, along with his attractive-but-distant producer and mawkish cameraman, is sent to report on Groundhog Day in the small town of Punxsutawney, where he finds himself repeating the same day over and over.",
+      "genres": [
+        { "id": 10749, "name": "Romance" },
+        { "id": 14, "name": "Fantasy" },
+        { "id": 18, "name": "Drama" },
+        { "id": 35, "name": "Comedy" }
+      ]
+    }
+  },
+  {
+    "id": 783,
+    "tmdb_id": 165,
+    "imdb_id": "tt0096874",
+    "release_date": "1989-11-20",
+    "title": "Back to the Future Part II",
+    "runtime": 108,
+    "revenue": 332000000,
+    "tagline": "Roads? Where we're going, we don't need roads!",
+    "poster": "/hQq8xZe5uLjFzSBt4LanNP7SQjl.jpg",
+    "backdrop": "/iGkZLNllCJH9QqKIAIkg5NSy8I6.jpg",
+    "ratings": { "popularity": 56.689855, "average": 7.4, "count": 3829 },
+    "details": {
+      "overview": "Marty and Doc are at it again in this wacky sequel to the 1985 blockbuster as the time-traveling duo head to 2015 to nip some McFly family woes in the bud. But things go awry thanks to bully Biff Tannen and a pesky sports almanac. In a last-ditch attempt to set things straight, Marty finds himself bound for 1955 and face to face with his teenage parents -- again.",
+      "genres": [
+        { "id": 12, "name": "Adventure" },
+        { "id": 35, "name": "Comedy" },
+        { "id": 10751, "name": "Family" },
+        { "id": 878, "name": "Science Fiction" }
+      ]
+    }
+  },
+  {
+    "id": 2173,
+    "tmdb_id": 168,
+    "imdb_id": "tt0092007",
+    "release_date": "1986-11-25",
+    "title": "Star Trek IV: The Voyage Home",
+    "runtime": 119,
+    "revenue": 133000000,
+    "tagline": "The key to saving the future can only be found in the past.",
+    "poster": "/xY5TzGXJOB3L9rhZ1MbbPyVlW5J.jpg",
+    "backdrop": "/wN3dgwkiWSLrMVukPQIeccv5EJ6.jpg",
+    "ratings": { "popularity": 12.596956, "average": 6.9, "count": 477 },
+    "details": {
+      "overview": "Fugitives of the Federation for their daring rescue of Spock from the doomed Genesis Planet, Admiral Kirk (William Shatner) and his crew begin their journey home to face justice for their actions. But as they near Earth, they find it at the mercy of a mysterious alien presence whose signals are slowly destroying the planet. In a desperate attempt to answer the call of the probe, Kirk and his crew race back to the late twentieth century. However they soon find the world they once knew to be more alien than anything they've encountered in the far reaches of the galaxy!",
+      "genres": [
+        { "id": 878, "name": "Science Fiction" },
+        { "id": 12, "name": "Adventure" }
+      ]
+    }
+  },
+  {
+    "id": 1468,
+    "tmdb_id": 169,
+    "imdb_id": "tt0100403",
+    "release_date": "1990-11-20",
+    "title": "Predator 2",
+    "runtime": 108,
+    "revenue": 57120318,
+    "tagline": "Silent. Invisible. Invincible. He's in town with a few days to kill.",
+    "poster": "/mSta5O31rPUcZH98psx0cxLbPXd.jpg",
+    "backdrop": "/7PoWlbQg7ZxgwofFRrkytvpLvJD.jpg",
+    "ratings": { "popularity": 45.736241, "average": 5.9, "count": 730 },
+    "details": {
+      "overview": "Ten years after a band of mercenaries first battled a vicious alien, the invisible creature from another world has returned to Earth -- and this time, it's drawn to the gang-ruled and ravaged city of Los Angeles. When it starts murdering drug dealers, detective-lieutenant Mike Harrigan and his police force set out to capture the creature, ignoring warnings from a mysterious government agent to stay away.",
+      "genres": [
+        { "id": 878, "name": "Science Fiction" },
+        { "id": 28, "name": "Action" },
+        { "id": 53, "name": "Thriller" }
+      ]
+    }
+  },
+  {
+    "id": 2012,
+    "tmdb_id": 172,
+    "imdb_id": "tt0098382",
+    "release_date": "1989-06-09",
+    "title": "Star Trek V: The Final Frontier",
+    "runtime": 107,
+    "revenue": 70200000,
+    "tagline": "Adventure and imagination will meet at the final frontier.",
+    "poster": "/uiXr41VLYsuug3CZbFrKLSNahuZ.jpg",
+    "backdrop": "/y0klN15XPVyYtd4P7HYecgJXSsZ.jpg",
+    "ratings": { "popularity": 20.308007, "average": 5.6, "count": 376 },
+    "details": {
+      "overview": "Capt. Kirk and his crew must deal with Mr. Spock's half brother who kidnaps three diplomats and hijacks the Enterprise in his obsessive search for God.",
+      "genres": [
+        { "id": 878, "name": "Science Fiction" },
+        { "id": 28, "name": "Action" },
+        { "id": 12, "name": "Adventure" },
+        { "id": 53, "name": "Thriller" }
+      ]
+    }
+  },
+  {
+    "id": 998,
+    "tmdb_id": 176,
+    "imdb_id": "tt0387564",
+    "release_date": "2004-10-01",
+    "title": "Saw",
+    "runtime": 103,
+    "revenue": 103911669,
+    "tagline": "Live or die. Make your choice.",
+    "poster": "/h2x0kRZWvwpw8GvghmQUn1m1jQo.jpg",
+    "backdrop": "/ok4ot3YbfDYZcINXf91JUfq3maB.jpg",
+    "ratings": { "popularity": 53.508433, "average": 7.2, "count": 2184 },
+    "details": {
+      "overview": "Obsessed with teaching his victims the value of life, a deranged, sadistic serial killer abducts the morally wayward. Once captured, they must face impossible choices in a horrific game of survival. The victims must fight to win their lives back, or die trying...",
+      "genres": [
+        { "id": 27, "name": "Horror" },
+        { "id": 9648, "name": "Mystery" },
+        { "id": 80, "name": "Crime" }
+      ]
+    }
+  },
+  {
+    "id": 2318,
+    "tmdb_id": 177,
+    "imdb_id": "tt0101889",
+    "release_date": "1991-09-09",
+    "title": "The Fisher King",
+    "runtime": 137,
+    "revenue": 41895491,
+    "tagline": "A Modern Day Tale About The Search For Love, Sanity, Ethel Merman And The Holy Grail.",
+    "poster": "/5mb1IV53luUNTRyF3TSC77X1KZs.jpg",
+    "backdrop": "/iqaQP6bYnwRGxdVBORppFS1TQWj.jpg",
+    "ratings": { "popularity": 11.184385, "average": 7.2, "count": 341 },
+    "details": {
+      "overview": "Two troubled men face their terrible destinies and events of their past as they join together on a mission to find the Holy Grail and thus to save themselves.",
+      "genres": [
+        { "id": 35, "name": "Comedy" },
+        { "id": 18, "name": "Drama" }
+      ]
+    }
+  },
+  {
+    "id": 15,
+    "tmdb_id": 180,
+    "imdb_id": "tt0181689",
+    "release_date": "2002-06-20",
+    "title": "Minority Report",
+    "runtime": 145,
+    "revenue": 358372926,
+    "tagline": "The system is perfect until it comes after you.",
+    "poster": "/ccqpHq5tk5W4ymbSbuoy4uYOxFI.jpg",
+    "backdrop": "/qq4H9JfBKQ5DarMLI6lhUQjn9D7.jpg",
+    "ratings": { "popularity": 20.666063, "average": 7.1, "count": 2608 },
+    "details": {
+      "overview": "John Anderton is a top 'Precrime' cop in the late-21st century, when technology can predict crimes before they're committed. But Anderton becomes the quarry when another investigator targets him for a murder charge.",
+      "genres": [
+        { "id": 28, "name": "Action" },
+        { "id": 53, "name": "Thriller" },
+        { "id": 878, "name": "Science Fiction" },
+        { "id": 9648, "name": "Mystery" }
+      ]
+    }
+  },
+  {
+    "id": 1917,
+    "tmdb_id": 184,
+    "imdb_id": "tt0119396",
+    "release_date": "1997-12-24",
+    "title": "Jackie Brown",
+    "runtime": 154,
+    "revenue": 39673162,
+    "tagline": "Six players on the trail of a half a million in Cash. There's only one question... Who's playing who?",
+    "poster": "/ewbLUXvm4riZL0aepy90o0vMesn.jpg",
+    "backdrop": "/mXELcGjyU0osFfUCiz1YdAn470M.jpg",
+    "ratings": { "popularity": 16.415498, "average": 7.3, "count": 1514 },
+    "details": {
+      "overview": "Jackie Brown is a flight attendant who gets caught in the middle of smuggling cash into the country for her gunrunner boss. When the cops try to use Jackie to get to her boss, she hatches a plan\u00c3\u00a2\u00e2\u0082\u00ac\u00c5\u00a1\u00c3\u0083\u00e2\u0080\u009e\u00c3\u0083\u00c2\u00aewith help from a bail bondsman\u00c3\u00a2\u00e2\u0082\u00ac\u00c5\u00a1\u00c3\u0083\u00e2\u0080\u009e\u00c3\u0083\u00c2\u00aeto keep the money for herself. Based on Elmore Leonard's novel \u00c3\u00a2\u00e2\u0082\u00ac\u00c5\u00a1\u00c3\u0083\u00e2\u0080\u009e\u00c3\u0083\u00c2\u00baRum Punch\u00c3\u00a2\u00e2\u0082\u00ac\u00c5\u00a1\u00c3\u0083\u00e2\u0080\u009e\u00c3\u0083\u00c2\u00b9.",
+      "genres": [
+        { "id": 35, "name": "Comedy" },
+        { "id": 80, "name": "Crime" },
+        { "id": 10749, "name": "Romance" }
+      ]
+    }
+  },
+  {
+    "id": 2441,
+    "tmdb_id": 186,
+    "imdb_id": "tt0425210",
+    "release_date": "2006-02-24",
+    "title": "Lucky Number Slevin",
+    "runtime": 110,
+    "revenue": 56308881,
+    "tagline": "Wrong Time. Wrong Place. Wrong Number.",
+    "poster": "/x21s3p5wPww534nYj1cWakTcqz4.jpg",
+    "backdrop": "/ShDHEWiJ4NL6ldn4W2m3bEkIBr.jpg",
+    "ratings": { "popularity": 20.15092, "average": 7.4, "count": 1323 },
+    "details": {
+      "overview": "Slevin is mistakenly put in the middle of a personal war between the city\u00c3\u00a2\u00e2\u0082\u00ac\u00c5\u00a1\u00c3\u0083\u00e2\u0080\u009e\u00c3\u0083\u00c2\u00b4s biggest criminal bosses. Under constant watch, Slevin must try not to get killed by an infamous assassin and come up with an idea of how to get out of his current dilemma. A film with many twists and turns.",
+      "genres": [
+        { "name": "The Weinstein Company", "id": 308 },
+        { "name": "FilmEngine", "id": 816 },
+        { "name": "Capitol Films", "id": 826 },
+        { "name": "Ascendant Pictures", "id": 1204 },
+        { "name": "VIP Medienfonds 4", "id": 2116 },
+        { "name": "The Complex Studio", "id": 21962 }
+      ]
+    }
+  },
+  {
+    "id": 740,
+    "tmdb_id": 187,
+    "imdb_id": "tt0401792",
+    "release_date": "2005-04-01",
+    "title": "Sin City",
+    "runtime": 124,
+    "revenue": 158733820,
+    "tagline": "Walk down the right back alley in Sin City and you can find anything...",
+    "poster": "/i66G50wATMmPrvpP95f0XP6ZdVS.jpg",
+    "backdrop": "/t9kQnqiaxQ8TLB25rTzDKLd0fdM.jpg",
+    "ratings": { "popularity": 24.010525, "average": 7.2, "count": 2691 },
+    "details": {
+      "overview": "Welcome to Sin City. This town beckons to the tough, the corrupt, the brokenhearted. Some call it dark\u00c3\u00a2\u00e2\u0082\u00ac\u00c5\u00a1\u00c3\u0083\u00e2\u0080\u009e\u00c3\u0082\u00c2\u00b6 Hard-boiled. Then there are those who call it home \u00c3\u00a2\u00e2\u0082\u00ac\u00c5\u00a1\u00c3\u0083\u00e2\u0080\u009e\u00c3\u0083\u00c2\u00ae Crooked cops, sexy dames, desperate vigilantes. Some are seeking revenge, others lust after redemption, and then there are those hoping for a little of both. A universe of unlikely and reluctant heroes still trying to do the right thing in a city that refuses to care.",
+      "genres": [
+        { "name": "Dimension Films", "id": 7405 },
+        { "name": "Troublemaker Studios", "id": 10807 },
+        { "name": "Miramax", "id": 53009 }
+      ]
+    }
+  },
+  {
+    "id": 50,
+    "tmdb_id": 193,
+    "imdb_id": "tt0111280",
+    "release_date": "1994-11-17",
+    "title": "Star Trek: Generations",
+    "runtime": 118,
+    "revenue": 120000000,
+    "tagline": "Boldly go.",
+    "poster": "/rHsCYDGHFUarGh5k987b0EFU6kC.jpg",
+    "backdrop": "/mNdsbVuRdsyo8eitW2IBW2BWRkU.jpg",
+    "ratings": { "popularity": 16.105708, "average": 6.4, "count": 452 },
+    "details": {
+      "overview": "Captain Jean-Luc Picard and the crew of the Enterprise-D find themselves at odds with the renegade scientist Soran who is destroying entire star systems. Only one man can help Picard stop Soran's scheme...and he's been dead for seventy-eight years.",
+      "genres": [
+        { "id": 878, "name": "Science Fiction" },
+        { "id": 28, "name": "Action" },
+        { "id": 12, "name": "Adventure" },
+        { "id": 53, "name": "Thriller" }
+      ]
+    }
+  },
+  {
+    "id": 1735,
+    "tmdb_id": 196,
+    "imdb_id": "tt0099088",
+    "release_date": "1990-05-25",
+    "title": "Back to the Future Part III",
+    "runtime": 118,
+    "revenue": 244527583,
+    "tagline": "They've saved the best trip for last... But this time they may have gone too far.",
+    "poster": "/crzoVQnMzIrRfHtQw0tLBirNfVg.jpg",
+    "backdrop": "/vKp3NvqBkcjHkCHSGi6EbcP7g4J.jpg",
+    "ratings": { "popularity": 13.043999, "average": 7.1, "count": 2900 },
+    "details": {
+      "overview": "The final installment of the Back to the Future trilogy finds Marty digging the trusty DeLorean out of a mineshaft and looking up Doc in the Wild West of 1885. But when their time machine breaks down, the travelers are stranded in a land of spurs. More problems arise when Doc falls for pretty schoolteacher Clara Clayton, and Marty tangles with Buford Tannen.",
+      "genres": [
+        { "id": 12, "name": "Adventure" },
+        { "id": 35, "name": "Comedy" },
+        { "id": 10751, "name": "Family" },
+        { "id": 878, "name": "Science Fiction" }
+      ]
+    }
+  },
+  {
+    "id": 108,
+    "tmdb_id": 197,
+    "imdb_id": "tt0112573",
+    "release_date": "1995-05-24",
+    "title": "Braveheart",
+    "runtime": 177,
+    "revenue": 210000000,
+    "tagline": "Every man dies. Not every man truly lives.",
+    "poster": "/or1gBugydmjToAEq7OZY0owwFk.jpg",
+    "backdrop": "/8lBcqakI3F19NWkXdqE0M8W76b9.jpg",
+    "ratings": { "popularity": 38.755149, "average": 7.7, "count": 3336 },
+    "details": {
+      "overview": "Enraged at the slaughter of Murron, his new bride and childhood love, Scottish warrior William Wallace slays a platoon of the local English lord's soldiers. This leads the village to revolt and, eventually, the entire country to rise up against English rule.",
+      "genres": [
+        { "id": 28, "name": "Action" },
+        { "id": 18, "name": "Drama" },
+        { "id": 36, "name": "History" },
+        { "id": 10752, "name": "War" }
+      ]
+    }
+  },
+  {
+    "id": 2271,
+    "tmdb_id": 203,
+    "imdb_id": "tt0070379",
+    "release_date": "1973-10-02",
+    "title": "Mean Streets",
+    "runtime": 110,
+    "revenue": 3000000,
+    "tagline": "You don't make up for your sins in church. You do it in the streets...",
+    "poster": "/9msfwOeGc9uL1iRRTBdEf15XonC.jpg",
+    "backdrop": "/WiiLlUc2FYa0kTmGwFoL6vw0gv.jpg",
+    "ratings": { "popularity": 13.212399, "average": 7.2, "count": 345 },
+    "details": {
+      "overview": "A small-time hood must choose from among love, friendship and the chance to rise within the mob.",
+      "genres": [
+        { "id": 18, "name": "Drama" },
+        { "id": 80, "name": "Crime" }
+      ]
+    }
+  },
+  {
+    "id": 1666,
+    "tmdb_id": 207,
+    "imdb_id": "tt0097165",
+    "release_date": "1989-06-02",
+    "title": "Dead Poets Society",
+    "runtime": 129,
+    "revenue": 235860116,
+    "tagline": "He was their inspiration. He made their lives extraordinary.",
+    "poster": "/ai40gM7SUaGA6fthvsd87o8IQq4.jpg",
+    "backdrop": "/hpzQHv8cA7j2Dn2CphOFYmllXzj.jpg",
+    "ratings": { "popularity": 36.905716, "average": 8.1, "count": 2705 },
+    "details": {
+      "overview": "At an elite, old-fashioned boarding school in New England, a passionate English teacher inspires his students to rebel against convention and seize the potential of every day, courting the disdain of the stern headmaster.",
+      "genres": [{ "id": 18, "name": "Drama" }]
+    }
+  },
+  {
+    "id": 903,
+    "tmdb_id": 217,
+    "imdb_id": "tt0367882",
+    "release_date": "2008-05-21",
+    "title": "Indiana Jones and the Kingdom of the Crystal Skull",
+    "runtime": 122,
+    "revenue": 786636033,
+    "tagline": "The adventure continues . . .",
+    "poster": "/56As6XEM1flWvprX4LgkPl8ii4K.jpg",
+    "backdrop": "/sL0vdRNTaKcaXDUIacw1ykvehoL.jpg",
+    "ratings": { "popularity": 36.577266, "average": 5.7, "count": 2495 },
+    "details": {
+      "overview": "Set during the Cold War, the Soviets \u00c3\u00a2\u00e2\u0082\u00ac\u00c5\u00a1\u00c3\u0083\u00e2\u0080\u009e\u00c3\u0083\u00c2\u00ac led by sword-wielding Irina Spalko \u00c3\u00a2\u00e2\u0082\u00ac\u00c5\u00a1\u00c3\u0083\u00e2\u0080\u009e\u00c3\u0083\u00c2\u00ac are in search of a crystal skull which has supernatural powers related to a mystical Lost City of Gold. After being captured and then escaping from them, Indy is coerced to head to Peru at the behest of a young man whose friend \u00c3\u00a2\u00e2\u0082\u00ac\u00c5\u00a1\u00c3\u0083\u00e2\u0080\u009e\u00c3\u0083\u00c2\u00ac and Indy's colleague \u00c3\u00a2\u00e2\u0082\u00ac\u00c5\u00a1\u00c3\u0083\u00e2\u0080\u009e\u00c3\u0083\u00c2\u00ac Professor Oxley has been captured for his knowledge of the skull's whereabouts.",
+      "genres": [
+        { "id": 12, "name": "Adventure" },
+        { "id": 28, "name": "Action" }
+      ]
+    }
+  },
+  {
+    "id": 1746,
+    "tmdb_id": 218,
+    "imdb_id": "tt0088247",
+    "release_date": "1984-10-26",
+    "title": "The Terminator",
+    "runtime": 108,
+    "revenue": 78371200,
+    "tagline": "Your future is in his hands.",
+    "poster": "/qvktm0BHcnmDpul4Hz01GIazWPr.jpg",
+    "backdrop": "/wh4ze6klUbeichAj603OKZwY1W5.jpg",
+    "ratings": { "popularity": 55.293562, "average": 7.3, "count": 4128 },
+    "details": {
+      "overview": "In the post-apocalyptic future, reigning tyrannical supercomputers teleport a cyborg assassin known as the \"Terminator\" back to 1984 to kill Sarah Connor, whose unborn son is destined to lead insurgents against 21st century mechanical hegemony. Meanwhile, the human-resistance movement dispatches a lone warrior to safeguard Sarah. Can he stop the virtually indestructible killing machine?",
+      "genres": [
+        { "id": 28, "name": "Action" },
+        { "id": 53, "name": "Thriller" },
+        { "id": 878, "name": "Science Fiction" }
+      ]
+    }
+  },
+  {
+    "id": 457,
+    "tmdb_id": 223,
+    "imdb_id": "tt0032976",
+    "release_date": "1940-04-12",
+    "title": "Rebecca",
+    "runtime": 130,
+    "revenue": 6000000,
+    "tagline": "The shadow of this woman darkened their love.",
+    "poster": "/tneFytRScAd4KRxhLjCBS7jdmnV.jpg",
+    "backdrop": "/jKgLVAhoq4fXBs1C9Gjvap93fxd.jpg",
+    "ratings": { "popularity": 8.590813, "average": 7.7, "count": 336 },
+    "details": {
+      "overview": "A self-conscious bride is tormented by the memory of her husband's dead first wife.",
+      "genres": [
+        { "id": 18, "name": "Drama" },
+        { "id": 9648, "name": "Mystery" }
+      ]
+    }
+  },
+  {
+    "id": 2158,
+    "tmdb_id": 235,
+    "imdb_id": "tt0092005",
+    "release_date": "1986-08-22",
+    "title": "Stand by Me",
+    "runtime": 89,
+    "revenue": 52287414,
+    "tagline": "For some, it's the last real taste of innocence, and the first real taste of life. But for everyone, it's the time that memories are made of.",
+    "poster": "/7QbJa6syM4ZYxtey0d7qB7bmhzb.jpg",
+    "backdrop": "/ljIF1JjdUUJtVW55x77vWSJxizQ.jpg",
+    "ratings": { "popularity": 15.206957, "average": 7.8, "count": 1522 },
+    "details": {
+      "overview": "After the death of a friend, a writer recounts a boyhood journey to find the body of a missing boy.",
+      "genres": [
+        { "id": 80, "name": "Crime" },
+        { "id": 18, "name": "Drama" }
+      ]
+    }
+  },
+  {
+    "id": 1094,
+    "tmdb_id": 238,
+    "imdb_id": "tt0068646",
+    "release_date": "1972-03-14",
+    "title": "The Godfather",
+    "runtime": 175,
+    "revenue": 245066411,
+    "tagline": "An offer you can't refuse.",
+    "poster": "/3bhkrj58Vtu7enYsRolD1fZdja1.jpg",
+    "backdrop": "/tmU7GeKVybMWFButWEGl2M4GeiP.jpg",
+    "ratings": { "popularity": 110.109264, "average": 8.4, "count": 5893 },
+    "details": {
+      "overview": "Spanning the years 1945 to 1955, a chronicle of the fictional Italian-American Corleone crime family. When organized crime family patriarch, Vito Corleone barely survives an attempt on his life, his youngest son, Michael steps in to take care of the would-be killers, launching a campaign of bloody revenge.",
+      "genres": [
+        { "id": 18, "name": "Drama" },
+        { "id": 80, "name": "Crime" }
+      ]
+    }
+  },
+  {
+    "id": 1382,
+    "tmdb_id": 239,
+    "imdb_id": "tt0053291",
+    "release_date": "1959-03-18",
+    "title": "Some Like It Hot",
+    "runtime": 122,
+    "revenue": 25000000,
+    "tagline": "The movie too HOT for words!",
+    "poster": "/hVIKyTK13AvOGv7ICmJjK44DTzp.jpg",
+    "backdrop": "/5zTwAcnI3zCJ0mucPPnoBtkSWEV.jpg",
+    "ratings": { "popularity": 26.845107, "average": 8, "count": 808 },
+    "details": {
+      "overview": "Two musicians witness a mob hit and struggle to find a way out of the city before they are found by the gangsters. Their only opportunity is to join an all-girl band as they leave on a tour. To make their getaway they must first disguise themselves as women, then keep their identities secret and deal with the problems this brings - such as an attractive bandmate and a very determined suitor.",
+      "genres": [
+        { "id": 35, "name": "Comedy" },
+        { "id": 10749, "name": "Romance" }
+      ]
+    }
+  },
+  {
+    "id": 846,
+    "tmdb_id": 242,
+    "imdb_id": "tt0099674",
+    "release_date": "1990-12-24",
+    "title": "The Godfather: Part III",
+    "runtime": 162,
+    "revenue": 136766062,
+    "tagline": "All the power on earth can't change destiny.",
+    "poster": "/lm3pQ2QoQ16pextRsmnUbG2onES.jpg",
+    "backdrop": "/zNnjHLDtV8Ti3aworltaeaLMov4.jpg",
+    "ratings": { "popularity": 111.185349, "average": 7.1, "count": 1546 },
+    "details": {
+      "overview": "In the midst of trying to legitimize his business dealings in 1979 New York and Italy, aging mafia don, Michael Corleone seeks forgiveness for his sins while taking a young protege under his wing.",
+      "genres": [
+        { "id": 80, "name": "Crime" },
+        { "id": 18, "name": "Drama" },
+        { "id": 53, "name": "Thriller" }
+      ]
+    }
+  },
+  {
+    "id": 2132,
+    "tmdb_id": 545611,
+    "imdb_id": "tt6710474",
+    "release_date": "2022-03-24",
+    "title": "Everything Everywhere All at Once",
+    "runtime": 140,
+    "revenue": 105125007,
+    "tagline": "The universe is so much bigger than you realize.",
+    "poster": "/rKvCys0fMIIi1X9rmJBxTPLAtoU.jpg",
+    "backdrop": "/tt79dbOPd9Z9ykEOpvckttgYXwH.jpg",
+    "ratings": { "popularity": 231.355, "average": 8, "count": 3005 },
+    "details": {
+      "overview": "An aging Chinese immigrant is swept up in an insane adventure, where she alone can save what's important to her by connecting with the lives she could have led in other universes.",
+      "genres": [
+        { "id": 28, "name": "Action" },
+        { "id": 12, "name": "Adventure" },
+        { "id": 878, "name": "Science Fiction" }
+      ]
+    }
+  },
+  {
+    "id": 239,
+    "tmdb_id": 251,
+    "imdb_id": "tt0099653",
+    "release_date": "1990-07-12",
+    "title": "Ghost",
+    "runtime": 127,
+    "revenue": 505000000,
+    "tagline": "A love that will last forever.",
+    "poster": "/w9RaPHov8oM5cnzeE27isnFMsvS.jpg",
+    "backdrop": "/zOyXP0MS4jvU01yIxzRV394ZUJw.jpg",
+    "ratings": { "popularity": 40.945397, "average": 6.9, "count": 1339 },
+    "details": {
+      "overview": "Sam Wheat is a banker, Molly Jensen is an artist, and the two are madly in love. However, when Sam is murdered by his friend and corrupt business partner Carl Bruner over a shady business deal, he is left to roam the earth as a powerless spirit. When he learns of Carl's betrayal, Sam must seek the help of psychic Oda Mae Brown to set things right and protect Molly from Carl and his goons.",
+      "genres": [
+        { "id": 14, "name": "Fantasy" },
+        { "id": 18, "name": "Drama" },
+        { "id": 53, "name": "Thriller" },
+        { "id": 9648, "name": "Mystery" },
+        { "id": 10749, "name": "Romance" }
+      ]
+    }
+  },
+  {
+    "id": 2418,
+    "tmdb_id": 252,
+    "imdb_id": "tt0067992",
+    "release_date": "1971-06-29",
+    "title": "Willy Wonka & the Chocolate Factory",
+    "runtime": 100,
+    "revenue": 4000000,
+    "tagline": "It's Scrumdiddlyumptious!",
+    "poster": "/xBcfztSiG2dDrtHB4GalRmpKYjJ.jpg",
+    "backdrop": "/idfNNlVwjVkBQrM2eWpLZiDOTIc.jpg",
+    "ratings": { "popularity": 39.416635, "average": 7.5, "count": 1812 },
+    "details": {
+      "overview": "Eccentric candy man Willy Wonka prompts a worldwide frenzy when he announces that golden tickets hidden inside five of his delicious candy bars will admit their lucky holders into his top-secret confectionary. But does Wonka have an agenda hidden amid a world of Oompa Loompas and chocolate rivers?",
+      "genres": [
+        { "id": 10751, "name": "Family" },
+        { "id": 14, "name": "Fantasy" }
+      ]
+    }
+  },
+  {
+    "id": 2036,
+    "tmdb_id": 254,
+    "imdb_id": "tt0360717",
+    "release_date": "2005-12-14",
+    "title": "King Kong",
+    "runtime": 187,
+    "revenue": 550000000,
+    "tagline": "The eighth wonder of the world.",
+    "poster": "/iQYMVoI9QE2wQCOSrxhiBYd4v0w.jpg",
+    "backdrop": "/khCWWTRSwmMw1Us6rVFpEzDeDJf.jpg",
+    "ratings": { "popularity": 19.761164, "average": 6.6, "count": 2337 },
+    "details": {
+      "overview": "In 1933 New York, an overly ambitious movie producer coerces his cast and hired ship crew to travel to mysterious Skull Island, where they encounter Kong, a giant ape who is immediately smitten with the leading lady.",
+      "genres": [
+        { "id": 12, "name": "Adventure" },
+        { "id": 18, "name": "Drama" },
+        { "id": 28, "name": "Action" }
+      ]
+    }
+  },
+  {
+    "id": 2017,
+    "tmdb_id": 278,
+    "imdb_id": "tt0111161",
+    "release_date": "1994-09-23",
+    "title": "The Shawshank Redemption",
+    "runtime": 142,
+    "revenue": 28341469,
+    "tagline": "Fear can hold you prisoner. Hope can set you free.",
+    "poster": "/9O7gLzmreU0nGkIB6K3BsJbzvNv.jpg",
+    "backdrop": "/wPU78OPN4BYEgWYdXyg0phMee64.jpg",
+    "ratings": { "popularity": 91.645403, "average": 8.5, "count": 8205 },
+    "details": {
+      "overview": "Framed in the 1940s for the double murder of his wife and her lover, upstanding banker Andy Dufresne begins a new life at the Shawshank prison, where he puts his accounting skills to work for an amoral warden. During his long stretch in prison, Dufresne comes to be admired by the other inmates -- including an older prisoner named Red -- for his integrity and unquenchable sense of hope.",
+      "genres": [
+        { "id": 18, "name": "Drama" },
+        { "id": 80, "name": "Crime" }
+      ]
+    }
+  },
+  {
+    "id": 2210,
+    "tmdb_id": 285,
+    "imdb_id": "tt0449088",
+    "release_date": "2007-05-19",
+    "title": "Pirates of the Caribbean: At World's End",
+    "runtime": 169,
+    "revenue": 961000000,
+    "tagline": "At the end of the world, the adventure begins.",
+    "poster": "/2YMnBRh8F6fDGCCEIPk9Hb0cEyB.jpg",
+    "backdrop": "/xQkk0i3FrNSq7DTBlxRf9XJhH7l.jpg",
+    "ratings": { "popularity": 95.363664, "average": 6.9, "count": 4500 },
+    "details": {
+      "overview": "Captain Barbossa, long believed to be dead, has come back to life and is headed to the edge of the Earth with Will Turner and Elizabeth Swann. But nothing is quite as it seems.",
+      "genres": [
+        { "id": 12, "name": "Adventure" },
+        { "id": 14, "name": "Fantasy" },
+        { "id": 28, "name": "Action" }
+      ]
+    }
+  },
+  {
+    "id": 1144,
+    "tmdb_id": 289,
+    "imdb_id": "tt0034583",
+    "release_date": "1942-11-26",
+    "title": "Casablanca",
+    "runtime": 102,
+    "revenue": 10462500,
+    "tagline": "They had a date with fate in Casablanca!",
+    "poster": "/5K7cOHoay2mZusSLezBOY0Qxh8a.jpg",
+    "backdrop": "/wOfzdzC0QZyhUIlyjeMuUYSb8Ax.jpg",
+    "ratings": { "popularity": 13.916101, "average": 7.9, "count": 1422 },
+    "details": {
+      "overview": "In Casablanca, Morocco in December 1941, a cynical American expatriate meets a former lover, with unforeseen complications.",
+      "genres": [
+        { "id": 18, "name": "Drama" },
+        { "id": 10749, "name": "Romance" }
+      ]
+    }
+  },
+  {
+    "id": 1812,
+    "tmdb_id": 296,
+    "imdb_id": "tt0181852",
+    "release_date": "2003-07-02",
+    "title": "Terminator 3: Rise of the Machines",
+    "runtime": 109,
+    "revenue": 435000000,
+    "tagline": "The Machines Will Rise.",
+    "poster": "/qAnafzrd9Y5pVTWAP0tSDDMPzTR.jpg",
+    "backdrop": "/kbXMOnz2RhTSAbLtHX5hy5AXtwv.jpg",
+    "ratings": { "popularity": 20.818907, "average": 5.9, "count": 2143 },
+    "details": {
+      "overview": "It's been 10 years since John Connor saved Earth from Judgment Day, and he's now living under the radar, steering clear of using anything Skynet can trace. That is, until he encounters T-X, a robotic assassin ordered to finish what T-1000 started. Good thing Connor's former nemesis, the Terminator, is back to aid the now-adult Connor \u00c3\u00a2\u00e2\u0082\u00ac\u00c5\u00a1\u00c3\u0083\u00e2\u0080\u009e\u00c3\u0082\u00c2\u00b6 just like he promised.",
+      "genres": [
+        { "id": 28, "name": "Action" },
+        { "id": 53, "name": "Thriller" },
+        { "id": 878, "name": "Science Fiction" }
+      ]
+    }
+  },
+  {
+    "id": 1066,
+    "tmdb_id": 298,
+    "imdb_id": "tt0496806",
+    "release_date": "2007-06-07",
+    "title": "Ocean's Thirteen",
+    "runtime": 122,
+    "revenue": 311312624,
+    "tagline": "What are the odds of getting even? 13 to one.",
+    "poster": "/pBsZs4zYUiUTemqbikTZ76iQRaU.jpg",
+    "backdrop": "/f4WzxA4jiYaSKO2Zw07JEYmYFVo.jpg",
+    "ratings": { "popularity": 20.16276, "average": 6.5, "count": 1999 },
+    "details": {
+      "overview": "Danny Ocean's team of criminals are back and composing a plan more personal than ever. When ruthless casino owner Willy Bank doublecrosses Reuben Tishkoff, causing a heart attack, Danny Ocean vows that he and his team will do anything to bring down Willy Bank along with everything he's got. Even if it means asking for help from an enemy.",
+      "genres": [
+        { "id": 80, "name": "Crime" },
+        { "id": 53, "name": "Thriller" }
+      ]
+    }
+  },
+  {
+    "id": 2181,
+    "tmdb_id": 322,
+    "imdb_id": "tt0327056",
+    "release_date": "2003-10-07",
+    "title": "Mystic River",
+    "runtime": 138,
+    "revenue": 156822020,
+    "tagline": "We bury our sins, we wash them clean.",
+    "poster": "/e2VNohx5jb7I6HUamCuGhKvzXDR.jpg",
+    "backdrop": "/ah9hRJhdMMLkntNDIatKwncNJra.jpg",
+    "ratings": { "popularity": 32.602438, "average": 7.6, "count": 1422 },
+    "details": {
+      "overview": "A story about friendship and loyalty, guilt and vengeance, and the fateful affect the past has on the present.",
+      "genres": null
+    }
+  },
+  {
+    "id": 1483,
+    "tmdb_id": 326,
+    "imdb_id": "tt0417148",
+    "release_date": "2006-08-06",
+    "title": "Snakes on a Plane",
+    "runtime": 105,
+    "revenue": 62022014,
+    "tagline": "At 30,000 feet, snakes aren't the deadliest thing on this plane.",
+    "poster": "/9wqWQ5rXQG6daMpowqwadGjI768.jpg",
+    "backdrop": "/bAG05yQkT56yFuLAETr12UfK05y.jpg",
+    "ratings": { "popularity": 7.418574, "average": 5.1, "count": 497 },
+    "details": {
+      "overview": "America is on the search for the murderer Eddie Kim. Sean Jones must fly to L.A. to testify in a hearing against Kim. Accompanied by FBI agent Neville Flynn, the flight receives some unexpected visitors.",
+      "genres": [
+        { "id": 28, "name": "Action" },
+        { "id": 80, "name": "Crime" },
+        { "id": 27, "name": "Horror" },
+        { "id": 53, "name": "Thriller" }
+      ]
+    }
+  },
+  {
+    "id": 1736,
+    "tmdb_id": 329,
+    "imdb_id": "tt0107290",
+    "release_date": "1993-06-11",
+    "title": "Jurassic Park",
+    "runtime": 127,
+    "revenue": 920100000,
+    "tagline": "An adventure 65 million years in the making.",
+    "poster": "/oU7Oq2kFAAlGqbU4VoAE36g4hoI.jpg",
+    "backdrop": "/1TvNazsE9WvRIxxeZkvL7IVVgzD.jpg",
+    "ratings": { "popularity": 33.863776, "average": 7.6, "count": 4856 },
+    "details": {
+      "overview": "A wealthy entrepreneur secretly creates a theme park featuring living dinosaurs drawn from prehistoric DNA. Before opening day, he invites a team of experts and his two eager grandchildren to experience the park and help calm anxious investors. However, the park is anything but amusing as the security systems go off-line and the dinosaurs escape.",
+      "genres": [
+        { "id": 12, "name": "Adventure" },
+        { "id": 878, "name": "Science Fiction" }
+      ]
+    }
+  },
+  {
+    "id": 1931,
+    "tmdb_id": 345,
+    "imdb_id": "tt0120663",
+    "release_date": "1999-07-14",
+    "title": "Eyes Wide Shut",
+    "runtime": 159,
+    "revenue": 162091208,
+    "tagline": "Cruise. Kidman. Kubrick.",
+    "poster": "/knEIz1eNGl5MQDbrEAVWA7iRqF9.jpg",
+    "backdrop": "/AklO85uUDAL3O7iSOtFGfqT3w8n.jpg",
+    "ratings": { "popularity": 38.268484, "average": 7.1, "count": 1234 },
+    "details": {
+      "overview": "After Dr. Bill Hartford's wife, Alice, admits to having sexual fantasies about a man she met, Bill becomes obsessed with having a sexual encounter. He discovers an underground sexual group and attends one of their meetings -- and quickly discovers that he is in over his head.",
+      "genres": [
+        { "id": 9648, "name": "Mystery" },
+        { "id": 18, "name": "Drama" }
+      ]
+    }
+  },
+  {
+    "id": 1789,
+    "tmdb_id": 348,
+    "imdb_id": "tt0078748",
+    "release_date": "1979-05-25",
+    "title": "Alien",
+    "runtime": 117,
+    "revenue": 104931801,
+    "tagline": "In space no one can hear you scream.",
+    "poster": "/vfrQk5IPloGg1v9Rzbh2Eg3VGyM.jpg",
+    "backdrop": "/hdHIjZxq3SWFqpAz4NFhdbud0iz.jpg",
+    "ratings": { "popularity": 56.37742, "average": 7.9, "count": 4470 },
+    "details": {
+      "overview": "During its return to the earth, commercial spaceship Nostromo intercepts a distress signal from a distant planet. When a three-member team of the crew discovers a chamber containing thousands of eggs on the planet, a creature inside one of the eggs attacks an explorer. The entire crew is unaware of the impending nightmare set to descend upon them when the alien parasite planted inside its unfortunate host is birthed.",
+      "genres": [
+        { "id": 27, "name": "Horror" },
+        { "id": 28, "name": "Action" },
+        { "id": 53, "name": "Thriller" },
+        { "id": 878, "name": "Science Fiction" }
+      ]
+    }
+  },
+  {
+    "id": 2201,
+    "tmdb_id": 364,
+    "imdb_id": "tt0103776",
+    "release_date": "1992-06-19",
+    "title": "Batman Returns",
+    "runtime": 126,
+    "revenue": 280000000,
+    "tagline": "The Bat, the Cat, the Penguin.",
+    "poster": "/jKBjeXM7iBBV9UkUcOXx3m7FSHY.jpg",
+    "backdrop": "/3WP0RObZ2t7ShHfqQpKPljF9B22.jpg",
+    "ratings": { "popularity": 33.001681, "average": 6.6, "count": 1673 },
+    "details": {
+      "overview": "Having defeated the Joker, Batman now faces the Penguin - a warped and deformed individual who is intent on being accepted into Gotham society. Crooked businessman Max Schreck is coerced into helping him become Mayor of Gotham and they both attempt to expose Batman in a different light. Selina Kyle, Max's secretary, is thrown from the top of a building and is transformed into Catwoman - a mysterious figure who has the same personality disorder as Batman. Batman must attempt to clear his name, all the time deciding just what must be done with the Catwoman.",
+      "genres": [
+        { "id": 28, "name": "Action" },
+        { "id": 14, "name": "Fantasy" }
+      ]
+    }
+  },
+  {
+    "id": 1064,
+    "tmdb_id": 411,
+    "imdb_id": "tt0363771",
+    "release_date": "2005-12-07",
+    "title": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
+    "runtime": 143,
+    "revenue": 748806957,
+    "tagline": "Evil Has Reigned For 100 Years...",
+    "poster": "/iREd0rNCjYdf5Ar0vfaW32yrkm.jpg",
+    "backdrop": "/sKK5bbQm15jzbMRwCJmPBbv9trN.jpg",
+    "ratings": { "popularity": 18.13542, "average": 6.7, "count": 2629 },
+    "details": {
+      "overview": "Siblings Lucy, Edmund, Susan and Peter step through a magical wardrobe and find the land of Narnia. There, the they discover a charming, once peaceful kingdom that has been plunged into eternal winter by the evil White Witch, Jadis. Aided by the wise and magnificent lion, Aslan, the children lead Narnia into a spectacular, climactic battle to be free of the Witch's glacial powers forever.",
+      "genres": [
+        { "id": 12, "name": "Adventure" },
+        { "id": 10751, "name": "Family" },
+        { "id": 14, "name": "Fantasy" }
+      ]
+    }
+  },
+  {
+    "id": 58,
+    "tmdb_id": 415,
+    "imdb_id": "tt0118688",
+    "release_date": "1997-06-20",
+    "title": "Batman & Robin",
+    "runtime": 125,
+    "revenue": 238207122,
+    "tagline": "Strength. Courage. Honor. And loyalty.",
+    "poster": "/cGRDufDDSrFrv7VI4YnmWnslne0.jpg",
+    "backdrop": "/m4UT6yKXhXgbzxpeV35L4jLoJoP.jpg",
+    "ratings": { "popularity": 27.038824, "average": 4.2, "count": 1418 },
+    "details": {
+      "overview": "Along with crime-fighting partner Robin and new recruit Batgirl, Batman battles the dual threat of frosty genius Mr. Freeze and homicidal horticulturalist Poison Ivy. Freeze plans to put Gotham City on ice, while Ivy tries to drive a wedge between the dynamic duo.",
+      "genres": [
+        { "id": 28, "name": "Action" },
+        { "id": 80, "name": "Crime" },
+        { "id": 14, "name": "Fantasy" }
+      ]
+    }
+  },
+  {
+    "id": 858,
+    "tmdb_id": 425,
+    "imdb_id": "tt0268380",
+    "release_date": "2002-03-10",
+    "title": "Ice Age",
+    "runtime": 81,
+    "revenue": 383257136,
+    "tagline": "They came. They thawed. They conquered.",
+    "poster": "/gLhHHZUzeseRXShoDyC4VqLgsNv.jpg",
+    "backdrop": "/a9ykRAWtQnI3SsZDfh8sCJo5cWI.jpg",
+    "ratings": { "popularity": 135.328902, "average": 7.1, "count": 3857 },
+    "details": {
+      "overview": "With the impending ice age almost upon them, a mismatched trio of prehistoric critters \u00c3\u00a2\u00e2\u0082\u00ac\u00c5\u00a1\u00c3\u0083\u00e2\u0080\u009e\u00c3\u0083\u00c2\u00ac Manny the woolly mammoth, Diego the saber-toothed tiger and Sid the giant sloth \u00c3\u00a2\u00e2\u0082\u00ac\u00c5\u00a1\u00c3\u0083\u00e2\u0080\u009e\u00c3\u0083\u00c2\u00ac find an orphaned infant and decide to return it to its human parents. Along the way, the unlikely allies become friends but, when enemies attack, their quest takes on far nobler aims.",
+      "genres": [
+        { "id": 16, "name": "Animation" },
+        { "id": 35, "name": "Comedy" },
+        { "id": 10751, "name": "Family" },
+        { "id": 12, "name": "Adventure" }
+      ]
+    }
+  },
+  {
+    "id": 1273,
+    "tmdb_id": 433,
+    "imdb_id": "tt0058331",
+    "release_date": "1964-08-27",
+    "title": "Mary Poppins",
+    "runtime": 139,
+    "revenue": 102272727,
+    "tagline": "It's supercalifragilisticexpialidocious!",
+    "poster": "/ei8hhYCMfURfPOXKBnyl61be2iV.jpg",
+    "backdrop": "/prVH6SyQ6yDmzVxxkcr57zhLM5C.jpg",
+    "ratings": { "popularity": 28.11549, "average": 7.4, "count": 1183 },
+    "details": {
+      "overview": "The movie combines a diverting story, songs, color and sequences of live action blended with the movements of animated figures. Mary Poppins is a kind of Super-nanny who flies in with her umbrella in response to the request of the Banks children and proceeds to put things right with the aid of her rather extraordinary magical powers before flying off again.",
+      "genres": [
+        { "id": 35, "name": "Comedy" },
+        { "id": 10751, "name": "Family" },
+        { "id": 14, "name": "Fantasy" }
+      ]
+    }
+  },
+  {
+    "id": 102,
+    "tmdb_id": 453,
+    "imdb_id": "tt0268978",
+    "release_date": "2001-12-11",
+    "title": "A Beautiful Mind",
+    "runtime": 135,
+    "revenue": 313542341,
+    "tagline": "I need to believe that something extra ordinary is possible...",
+    "poster": "/zwzWCmH72OSC9NA0ipoqw5Zjya8.jpg",
+    "backdrop": "/vVBcIN68kFq681b4lObiNJhEVro.jpg",
+    "ratings": { "popularity": 33.93646, "average": 7.7, "count": 3009 },
+    "details": {
+      "overview": "At Princeton University, John Nash struggles to make a worthwhile contribution to serve as his legacy to the world of mathematics. He finally makes a revolutionary breakthrough that will eventually earn him the Nobel Prize. After graduate school he turns to teaching, becoming romantically involved with his student Alicia. Meanwhile the government asks his help with breaking Soviet codes, which soon gets him involved in a terrifying conspiracy plot. Nash grows more and more paranoid until a discovery that turns his entire world upside down. Now it is only with Alicia's help that he will be able to recover his mental strength and regain his status as the great mathematician we know him as today..",
+      "genres": [
+        { "id": 18, "name": "Drama" },
+        { "id": 10749, "name": "Romance" }
+      ]
+    }
+  },
+  {
+    "id": 509,
+    "tmdb_id": 473,
+    "imdb_id": "tt0138704",
+    "release_date": "1998-07-10",
+    "title": "Pi",
+    "runtime": 84,
+    "revenue": 3221152,
+    "tagline": "There will be no order, only chaos",
+    "poster": "/evihMteV6WFuBRhRsQVWa0mV7e9.jpg",
+    "backdrop": "/vCRDER9SQHVkFVrZ23K2RZHlfYK.jpg",
+    "ratings": { "popularity": 13.621362, "average": 7.1, "count": 586 },
+    "details": {
+      "overview": "The debut film from Darren Aronofsky in which a mathematical genius Maximilian Cohen discovers a link in the connection between numbers and reality and thus believes he can predict the future.",
+      "genres": [
+        { "id": 9648, "name": "Mystery" },
+        { "id": 18, "name": "Drama" },
+        { "id": 53, "name": "Thriller" }
+      ]
+    }
+  },
+  {
+    "id": 1427,
+    "tmdb_id": 438631,
+    "imdb_id": "tt1160419",
+    "release_date": "2021-10-22",
+    "title": "Dune",
+    "runtime": 155,
+    "revenue": 400671789,
+    "tagline": "It begins.",
+    "poster": "/d5NXSklXo0qyIYkgV94XAgMIckC.jpg",
+    "backdrop": "/jYEW5xZkZk2WTrdbMGAPFuBqbDc.jpg",
+    "ratings": { "popularity": 119.89, "average": 7.6, "count": 6796 },
+    "details": {
+      "overview": "Paul Atreides, a brilliant and gifted young man born into a great destiny beyond his understanding, must travel to the most dangerous planet in the universe to ensure the future of his family and his people. As malevolent forces explode into conflict over the planet's exclusive supply of the most precious resource in existence-a commodity capable of unlocking humanity's greatest potential-only those who can conquer their fear will survive.",
+      "genres": [
+        { "id": 878, "name": "Science Fiction" },
+        { "id": 12, "name": "Adventure" }
+      ]
+    }
+  },
+  {
+    "id": 811,
+    "tmdb_id": 600583,
+    "imdb_id": "tt10293406",
+    "release_date": "2021-11-11",
+    "title": "The Power of the Dog",
+    "runtime": 128,
+    "revenue": 363889678,
+    "tagline": "The Power of the Dog",
+    "poster": "/kEy48iCzGnp0ao1cZbNeWR6yIhC.jpg",
+    "backdrop": "/gAsHuCQMN7mv4uFIvM4ACQ09hPr.jpg",
+    "ratings": { "popularity": 27.6, "average": 6.8, "count": 2174 },
+    "details": {
+      "overview": "A domineering but charismatic rancher wages a war of intimidation on his brother's new wife and her teen son, until long-hidden secrets come to light.",
+      "genres": [
+        { "id": 37, "name": "Western" },
+        { "id": 18, "name": "Drama" }
+      ]
+    }
+  },
+  {
+    "id": 1122,
+    "tmdb_id": 512,
+    "imdb_id": "tt0457513",
+    "release_date": "2006-07-27",
+    "title": "Scoop",
+    "runtime": 96,
+    "revenue": 31584901,
+    "tagline": "The perfect man. The perfect story. The perfect murder.",
+    "poster": "/aHvZYoQNRTMrfs46pj64b9GrbaK.jpg",
+    "backdrop": "/8qPG3AjLtletf1K4g8iGhKwHQSc.jpg",
+    "ratings": { "popularity": 8.16339, "average": 6.4, "count": 420 },
+    "details": {
+      "overview": "An American journalism student in London scoops a big story, and begins an affair with an aristocrat as the incident unfurls.",
+      "genres": [
+        { "id": 35, "name": "Comedy" },
+        { "id": 9648, "name": "Mystery" }
+      ]
+    }
+  },
+  {
+    "id": 1667,
+    "tmdb_id": 522,
+    "imdb_id": "tt0109707",
+    "release_date": "1994-09-27",
+    "title": "Ed Wood",
+    "runtime": 127,
+    "revenue": 5887457,
+    "tagline": "When it came to making bad movies, Ed Wood was the best.",
+    "poster": "/ab28VMfoYOJcHipIVFmd7hYW029.jpg",
+    "backdrop": "/3jrwJiMCe7VZP0DNcywHYOKg0Zu.jpg",
+    "ratings": { "popularity": 11.720358, "average": 7.3, "count": 630 },
+    "details": {
+      "overview": "The mostly true story of the legendary \"worst director of all time\", who, with the help of his strange friends, filmed countless B-movies without ever becoming famous or successful.",
+      "genres": [
+        { "id": 35, "name": "Comedy" },
+        { "id": 18, "name": "Drama" },
+        { "id": 36, "name": "History" }
+      ]
+    }
+  },
+  {
+    "id": 898,
+    "tmdb_id": 526,
+    "imdb_id": "tt0089457",
+    "release_date": "1985-03-27",
+    "title": "Ladyhawke",
+    "runtime": 121,
+    "revenue": 18432000,
+    "tagline": "No force in Heaven will release them. No power on Earth can save them.",
+    "poster": "/vJA2Fhw2uBMiVFdBde2kH7kZ2gw.jpg",
+    "backdrop": "/s0sedDCn7KDtjExHAFJtUaN3Iw5.jpg",
+    "ratings": { "popularity": 8.157587, "average": 6.8, "count": 260 },
+    "details": {
+      "overview": "Captain Etienne Navarre is a man on whose shoulders lies a cruel curse. Punished for loving each other, Navarre must become a wolf by night whilst his lover, Lady Isabeau, takes the form of a hawk by day. Together, with the thief Philippe Gaston, they must try to overthrow the corrupt Bishop and in doing so break the spell.",
+      "genres": [
+        { "id": 12, "name": "Adventure" },
+        { "id": 18, "name": "Drama" },
+        { "id": 14, "name": "Fantasy" },
+        { "id": 10749, "name": "Romance" }
+      ]
+    }
+  },
+  {
+    "id": 650,
+    "tmdb_id": 533,
+    "imdb_id": "tt0312004",
+    "release_date": "2005-09-04",
+    "title": "The Curse of the Were-Rabbit",
+    "runtime": 85,
+    "revenue": 192452832,
+    "tagline": "Something bunny is going on...",
+    "poster": "/hKwtMF4LdEl9sozLCr8Ur4l499p.jpg",
+    "backdrop": "/lDc57OEx1u1aNpOmHFjWbpT99kl.jpg",
+    "ratings": { "popularity": 11.766244, "average": 6.8, "count": 643 },
+    "details": {
+      "overview": "Cheese-loving eccentric Wallace and his cunning canine pal, Gromit, investigate a mystery in Nick Park's animated adventure, in which the lovable inventor and his intrepid pup run a business ridding the town of garden pests. Using only humane methods that turn their home into a halfway house for evicted vermin, the pair stumble upon a mystery involving a voracious vegetarian monster that threatens to ruin the annual veggie-growing contest.",
+      "genres": [
+        { "id": 12, "name": "Adventure" },
+        { "id": 16, "name": "Animation" },
+        { "id": 35, "name": "Comedy" },
+        { "id": 10751, "name": "Family" }
+      ]
+    }
+  },
+  {
+    "id": 2339,
+    "tmdb_id": 550,
+    "imdb_id": "tt0137523",
+    "release_date": "1999-10-15",
+    "title": "Fight Club",
+    "runtime": 139,
+    "revenue": 100853753,
+    "tagline": "Mischief. Mayhem. Soap.",
+    "poster": "/pB8BM7pdSp6B6Ih7QZ4DrQ3PmJK.jpg",
+    "backdrop": "/1mY2vJCGQW2IUgGK6yNc852A4tR.jpg",
+    "ratings": { "popularity": 63.869599, "average": 8.3, "count": 9413 },
+    "details": {
+      "overview": "A ticking-time-bomb insomniac and a slippery soap salesman channel primal male aggression into a shocking new form of therapy. Their concept catches on, with underground \"fight clubs\" forming in every town, until an eccentric gets in the way and ignites an out-of-control spiral toward oblivion.",
+      "genres": [{ "id": 18, "name": "Drama" }]
+    }
+  },
+  {
+    "id": 2645,
+    "tmdb_id": 563,
+    "imdb_id": "tt0120201",
+    "release_date": "1997-11-06",
+    "title": "Starship Troopers",
+    "runtime": 129,
+    "revenue": 121214377,
+    "tagline": "The only good bug is a dead bug.",
+    "poster": "/cxCmv23O7p3hyHwqoktHYkZcGsY.jpg",
+    "backdrop": "/7PR2yMwXuXelAcp3qpJ3isZCdd0.jpg",
+    "ratings": { "popularity": 32.412644, "average": 6.7, "count": 1560 },
+    "details": {
+      "overview": "Set in the future, the story follows a young soldier named Johnny Rico and his exploits in the Mobile Infantry. Rico's military career progresses from recruit to non-commissioned officer and finally to officer against the backdrop of an interstellar war between mankind and an arachnoid species known as \"the Bugs\".",
+      "genres": [
+        { "id": 12, "name": "Adventure" },
+        { "id": 28, "name": "Action" },
+        { "id": 53, "name": "Thriller" },
+        { "id": 878, "name": "Science Fiction" }
+      ]
+    }
+  },
+  {
+    "id": 2037,
+    "tmdb_id": 568,
+    "imdb_id": "tt0112384",
+    "release_date": "1995-06-30",
+    "title": "Apollo 13",
+    "runtime": 140,
+    "revenue": 355237933,
+    "tagline": "Houston, we have a problem.",
+    "poster": "/oYUZHYMwNKnE1ef4WE5Hw2a9OAY.jpg",
+    "backdrop": "/32zua2oKjn2EaRk7am3qK8zAlEj.jpg",
+    "ratings": { "popularity": 22.761467, "average": 7.3, "count": 1599 },
+    "details": {
+      "overview": "The true story of technical troubles that scuttle the Apollo 13 lunar mission in 1971, risking the lives of astronaut Jim Lovell and his crew, with the failed journey turning into a thrilling saga of heroism. Drifting more than 200,000 miles from Earth, the astronauts work furiously with the ground crew to avert tragedy.",
+      "genres": [{ "id": 18, "name": "Drama" }]
+    }
+  },
+  {
+    "id": 1391,
+    "tmdb_id": 674324,
+    "imdb_id": "tt11813216",
+    "release_date": "2022-10-21",
+    "title": "The Banshees of Inisherin",
+    "runtime": 114,
+    "revenue": 19826461,
+    "tagline": "Everything was fine yesterday.",
+    "poster": "/dpeR3ue0Q93Rk8jhE2DzVPMRGIm.jpg",
+    "backdrop": "/1vXD5HXqkhvsXFHE7KmCPZGPR1e.jpg",
+    "ratings": { "popularity": 224.38, "average": 4.5, "count": 848 },
+    "details": {
+      "overview": "Two lifelong friends find themselves at an impasse when one abruptly ends their relationship, with alarming consequences for both of them.",
+      "genres": [
+        { "id": 18, "name": "Drama" },
+        { "id": 35, "name": "Comedy" }
+      ]
+    }
+  },
+  {
+    "id": 229,
+    "tmdb_id": 576,
+    "imdb_id": "tt0065214",
+    "release_date": "1969-06-17",
+    "title": "The Wild Bunch",
+    "runtime": 145,
+    "revenue": 638641,
+    "tagline": "If you only want to spend two hours in a movie theatre and go home and forget it, stay away from THE WILD BUNCH.",
+    "poster": "/8j9yEC3xjy1PJDSizIbaxcHaSph.jpg",
+    "backdrop": "/3VOMg5qurrIGoZrg3cfbxhEW5Ye.jpg",
+    "ratings": { "popularity": 11.722424, "average": 7.6, "count": 259 },
+    "details": {
+      "overview": "Aging outlaw Pike Bishop (William Holden) prepares to retire after one final robbery. Joined by his gang, which includes Dutch Engstrom (Ernest Borgnine) and brothers Lyle (Warren Oates) and Tector Gorch (Ben Johnson), Bishop discovers the heist is a setup orchestrated in part by his old partner, Deke Thornton (Robert Ryan). As the remaining gang takes refuge in Mexican territory, Thornton trails them, resulting in fierce gunfights with plenty of casualties",
+      "genres": [
+        { "id": 12, "name": "Adventure" },
+        { "id": 37, "name": "Western" }
+      ]
+    }
+  },
+  {
+    "id": 1003,
+    "tmdb_id": 577,
+    "imdb_id": "tt0114681",
+    "release_date": "1995-05-20",
+    "title": "To Die For",
+    "runtime": 106,
+    "revenue": 21284514,
+    "tagline": "All she wanted was a little attention.",
+    "poster": "/aedhsShrlJVhLlwhtlmFJgR4Szs.jpg",
+    "backdrop": "/hkQonhCuDyjRmhFsFrCK0XnW7kk.jpg",
+    "ratings": { "popularity": 10.448481, "average": 6.7, "count": 175 },
+    "details": {
+      "overview": "Susan wants to work in television and will therefore do anything it takes, even if it means killing her husband. A very dark comedy from independent director Gus Van Sant with a brilliant Nicole Kidman in the leading role.",
+      "genres": [
+        { "id": 14, "name": "Fantasy" },
+        { "id": 18, "name": "Drama" },
+        { "id": 35, "name": "Comedy" },
+        { "id": 53, "name": "Thriller" }
+      ]
+    }
+  },
+  {
+    "id": 212,
+    "tmdb_id": 578,
+    "imdb_id": "tt0073195",
+    "release_date": "1975-06-18",
+    "title": "Jaws",
+    "runtime": 124,
+    "revenue": 470654000,
+    "tagline": "Don't go in the water.",
+    "poster": "/lxM6kqilAdpdhqUl2biYp5frUxE.jpg",
+    "backdrop": "/3nYlM34QhzdtAvWRV5bN4nLtnTc.jpg",
+    "ratings": { "popularity": 43.726114, "average": 7.5, "count": 2542 },
+    "details": {
+      "overview": "An insatiable great white shark terrorizes the townspeople of Amity Island, The police chief, an oceanographer and a grizzled shark hunter seek to destroy the bloodthirsty beast.",
+      "genres": [
+        { "id": 27, "name": "Horror" },
+        { "id": 53, "name": "Thriller" },
+        { "id": 12, "name": "Adventure" }
+      ]
+    }
+  },
+  {
+    "id": 1208,
+    "tmdb_id": 580,
+    "imdb_id": "tt0093300",
+    "release_date": "1987-07-17",
+    "title": "Jaws: The Revenge",
+    "runtime": 89,
+    "revenue": 51881013,
+    "tagline": "This time, it\u00c3\u00a2\u00e2\u0082\u00ac\u00e2\u0084\u00a2s personal.",
+    "poster": "/kGiaOztahZV2x7bil7sbk7fb6ob.jpg",
+    "backdrop": "/cJyQfwSEa5IjOdeNTuiWjciVbou.jpg",
+    "ratings": { "popularity": 9.327986, "average": 3.5, "count": 224 },
+    "details": {
+      "overview": "After another deadly shark attack, Ellen Brody decides she has had enough of New England's Amity Island and moves to the Caribbean to join her son, Michael, and his family. But a great white shark has followed her there, hungry for more lives.",
+      "genres": [
+        { "id": 12, "name": "Adventure" },
+        { "id": 53, "name": "Thriller" }
+      ]
+    }
+  },
+  {
+    "id": 2465,
+    "tmdb_id": 581,
+    "imdb_id": "tt0099348",
+    "release_date": "1990-11-09",
+    "title": "Dances with Wolves",
+    "runtime": 181,
+    "revenue": 424208848,
+    "tagline": "Inside everyone is a frontier waiting to be discovered.",
+    "poster": "/cvaBVpS0GzKqBd63pFT8f1E8OKv.jpg",
+    "backdrop": "/ywWva4trKw7f3wtbz81Fe3FnrtC.jpg",
+    "ratings": { "popularity": 39.654349, "average": 7.6, "count": 1046 },
+    "details": {
+      "overview": "Wounded Civil War soldier, John Dunbar tries to commit suicide \u00c3\u00a2\u00e2\u0082\u00ac\u00c5\u00a1\u00c3\u0083\u00e2\u0080\u009e\u00c3\u0083\u00c2\u00ac and becomes a hero instead. As a reward, he's assigned to his dream post, a remote junction on the Western frontier, and soon makes unlikely friends with the local Sioux tribe.",
+      "genres": [
+        { "id": 12, "name": "Adventure" },
+        { "id": 18, "name": "Drama" },
+        { "id": 37, "name": "Western" }
+      ]
+    }
+  },
+  {
+    "id": 1193,
+    "tmdb_id": 586,
+    "imdb_id": "tt0120885",
+    "release_date": "1997-12-25",
+    "title": "Wag the Dog",
+    "runtime": 97,
+    "revenue": 64256513,
+    "tagline": "A comedy about truth, justice and other special effects.",
+    "poster": "/kAwOj7t8ZeaniTFtLWVSKO79JxX.jpg",
+    "backdrop": "/bWoNwo04ZfZoEvEF8gliyB1EAyS.jpg",
+    "ratings": { "popularity": 7.603652, "average": 6.7, "count": 270 },
+    "details": {
+      "overview": "During the final weeks of a presidential race, the President is accused of sexual misconduct. To distract the public until the election, the President's adviser hires a Hollywood producer to help him stage a fake war.",
+      "genres": [
+        { "id": 35, "name": "Comedy" },
+        { "id": 18, "name": "Drama" }
+      ]
+    }
+  },
+  {
+    "id": 2994,
+    "tmdb_id": 76600,
+    "imdb_id": "tt1630029",
+    "release_date": "2022-12-14",
+    "title": "Avatar: The Way of Water",
+    "runtime": 192,
+    "revenue": 2116000000,
+    "tagline": "Return to Pandora.",
+    "poster": "/t6HIqrRAclMCA60NsSmeqe9RmNV.jpg",
+    "backdrop": "/s16H6tpK2utvwDtzZ8Qy4qm5Emw.jpg",
+    "ratings": { "popularity": 2298.7, "average": 7.7, "count": 5052 },
+    "details": {
+      "overview": "Set more than a decade after the events of the first film, learn the story of the Sully family (Jake, Neytiri, and their kids), the trouble that follows them, the lengths they go to keep each other safe, the battles they fight to stay alive, and the tragedies they endure.",
+      "genres": [
+        { "id": 878, "name": "Science Fiction" },
+        { "id": 12, "name": "Adventure" },
+        { "id": 28, "name": "Action" }
+      ]
+    }
+  },
+  {
+    "id": 2322,
+    "tmdb_id": 597,
+    "imdb_id": "tt0046435",
+    "release_date": "1953-04-11",
+    "title": "Titanic",
+    "runtime": 98,
+    "revenue": 4905000,
+    "tagline": "TITANIC in Emotion...in Spectacle...in Climax...in Cast!",
+    "poster": "/9xjZS2rlVxm8SFx8kPC3aIGCOYQ.jpg",
+    "backdrop": "/6VmFqApQRyZZzmiGOQq2C92jyvH.jpg",
+    "ratings": { "popularity": 12.90707, "average": 7.5, "count": 7562 },
+    "details": {
+      "overview": "Unhappily married, Julia Sturges decides to go to America with her two children on the unsinkable Titanic. Her husband, Richard also arranges passage on the luxury liner so as to have custody of their two children. All this fades to insignificance once the ship hits an iceberg.",
+      "genres": [
+        { "id": 18, "name": "Drama" },
+        { "id": 10749, "name": "Romance" },
+        { "id": 53, "name": "Thriller" }
+      ]
+    }
+  },
+  {
+    "id": 908,
+    "tmdb_id": 606,
+    "imdb_id": "tt0089755",
+    "release_date": "1985-12-20",
+    "title": "Out of Africa",
+    "runtime": 161,
+    "revenue": 128499205,
+    "tagline": "Based on a true story.",
+    "poster": "/3ao9wNPTdpFDWVMyqDZGZnSGpz5.jpg",
+    "backdrop": "/oGYRCq5eBhgXuLX20czONxa0uC8.jpg",
+    "ratings": { "popularity": 14.004074, "average": 7, "count": 279 },
+    "details": {
+      "overview": "Out of Africa tells the story of the life of Danish author Karen Blixen, who at the beginning of the 20th century moved to Africa to build a new life for herself. The film is based on the autobiographical novel by Karen Blixen from 1937.",
+      "genres": [{ "id": 18, "name": "Drama" }]
+    }
+  },
+  {
+    "id": 2971,
+    "tmdb_id": 619,
+    "imdb_id": "tt0103855",
+    "release_date": "1992-11-25",
+    "title": "The Bodyguard",
+    "runtime": 129,
+    "revenue": 411006740,
+    "tagline": "Never let her out of your sight. Never let your guard down. Never fall in love.",
+    "poster": "/2VgZW2ZD3pNoV2j8U2GXNRwOsk9.jpg",
+    "backdrop": "/6LS4YtklwlHSHhNTCAiZGEXRvJZ.jpg",
+    "ratings": { "popularity": 9.805017, "average": 6.1, "count": 661 },
+    "details": {
+      "overview": "A former Secret Service agent grudgingly takes an assignment to protect a pop idol who's threatened by a crazed fan. At first, the safety-obsessed bodyguard and the self-indulgent diva totally clash. But before long, all that tension sparks fireworks of another sort, and the love-averse tough guy is torn between duty and romance.",
+      "genres": [
+        { "id": 53, "name": "Thriller" },
+        { "id": 28, "name": "Action" },
+        { "id": 18, "name": "Drama" },
+        { "id": 10402, "name": "Music" },
+        { "id": 10749, "name": "Romance" }
+      ]
+    }
+  },
+  {
+    "id": 2905,
+    "tmdb_id": 627,
+    "imdb_id": "tt0117951",
+    "release_date": "1996-02-23",
+    "title": "Trainspotting",
+    "runtime": 93,
+    "revenue": 16491080,
+    "tagline": "Choose life.",
+    "poster": "/bhY62Dw8iW54DIhxPQerbuB9DOP.jpg",
+    "backdrop": "/e9GbzPawXDFvLwSseCXpHkbCyAP.jpg",
+    "ratings": { "popularity": 19.348466, "average": 7.8, "count": 2655 },
+    "details": {
+      "overview": "Renton, deeply immersed in the Edinburgh drug scene, tries to clean up and get out, despite the allure of the drugs and influence of friends.",
+      "genres": [
+        { "id": 18, "name": "Drama" },
+        { "id": 80, "name": "Crime" }
+      ]
+    }
+  },
+  {
+    "id": 906,
+    "tmdb_id": 639,
+    "imdb_id": "tt0098635",
+    "release_date": "1989-07-21",
+    "title": "When Harry Met Sally...",
+    "runtime": 96,
+    "revenue": 92823546,
+    "tagline": "Can two friends sleep together and still love each other in the morning?",
+    "poster": "/3wkbKeowUp1Zpkw1KkBqMWbt0P9.jpg",
+    "backdrop": "/kMeDACpkeCBYhWnkrdQvgCsOIgG.jpg",
+    "ratings": { "popularity": 18.34322, "average": 7.3, "count": 950 },
+    "details": {
+      "overview": "During their travels from Chicago to New York, Harry and Sally Will debate whether or not sex ruins a perfect relationship between a man and a woman. Eleven years and later, they're still no closer to finding the answer.",
+      "genres": [
+        { "id": 35, "name": "Comedy" },
+        { "id": 10749, "name": "Romance" },
+        { "id": 18, "name": "Drama" }
+      ]
+    }
+  },
+  {
+    "id": 511,
+    "tmdb_id": 654,
+    "imdb_id": "tt0047296",
+    "release_date": "1954-06-22",
+    "title": "On the Waterfront",
+    "runtime": 108,
+    "revenue": 9600000,
+    "tagline": "The Man Lived by the Jungle Law of the Docks!",
+    "poster": "/fKjLZy9W8VxMOp5OoyWojmLVCQw.jpg",
+    "backdrop": "/hUzRPXBUHyJhpyGV0NfBDuadbgp.jpg",
+    "ratings": { "popularity": 18.211093, "average": 8.1, "count": 753 },
+    "details": {
+      "overview": "Terry Malloy dreams about being a prize fighter, while tending his pigeons and running errands at the docks for Johnny Friendly, the corrupt boss of the dockers union. Terry witnesses a murder by two of Johnny's thugs, and later meets the dead man's sister and feels responsible for his death. She introduces him to Father Barry, who tries to force him to provide information for the courts that will smash the dock racketeers.",
+      "genres": [
+        { "id": 80, "name": "Crime" },
+        { "id": 18, "name": "Drama" }
+      ]
+    }
+  },
+  {
+    "id": 2392,
+    "tmdb_id": 579974,
+    "imdb_id": "tt8178634",
+    "release_date": "2022-06-01",
+    "title": "RRR",
+    "runtime": 187,
+    "revenue": 160000000,
+    "tagline": "Rise, Roar, Revolt.",
+    "poster": "/wE0I6efAW4cDDmZQWtwZMOW44EJ.jpg",
+    "backdrop": "/77GGKq6Ixq6ZiqBM6XcPZgQmiN2.jpg",
+    "ratings": { "popularity": 142.517835, "average": 7.7, "count": 562 },
+    "details": {
+      "overview": "A fictional history of two legendary revolutionaries' journey away from home before they began fighting for their country in the 1920s.",
+      "genres": [
+        { "id": 28, "name": "Action" },
+        { "id": 18, "name": "Drama" }
+      ]
+    }
+  },
+  {
+    "id": 2334,
+    "tmdb_id": 667,
+    "imdb_id": "tt0062512",
+    "release_date": "1967-06-12",
+    "title": "You Only Live Twice",
+    "runtime": 117,
+    "revenue": 111584787,
+    "tagline": "You Only Live Twice...and Twice is the only way to live!",
+    "poster": "/8axcRNpDi1W6SQTpK2tblDhcFa8.jpg",
+    "backdrop": "/cpZAXIYA0lkZMpAt7d1MmH8ojNV.jpg",
+    "ratings": { "popularity": 10.359669, "average": 6.5, "count": 531 },
+    "details": {
+      "overview": "A mysterious space craft kidnaps a Russian and American space capsule and brings the world on the verge of another World War. James Bond investigates the case in Japan and meets with his archenemy Blofeld. The fifth film from the legendary James Bond series starring Sean Connery as the British super agent.",
+      "genres": [
+        { "id": 28, "name": "Action" },
+        { "id": 53, "name": "Thriller" },
+        { "id": 12, "name": "Adventure" }
+      ]
+    }
+  },
+  {
+    "id": 2803,
+    "tmdb_id": 672,
+    "imdb_id": "tt0295297",
+    "release_date": "2002-11-13",
+    "title": "Harry Potter and the Chamber of Secrets",
+    "runtime": 161,
+    "revenue": 876688482,
+    "tagline": "Hogwarts is back in session.",
+    "poster": "/sdEOH0992YZ0QSxgXNIGLq1ToUi.jpg",
+    "backdrop": "/1stUIsjawROZxjiCMtqqXqgfZWC.jpg",
+    "ratings": { "popularity": 208.741452, "average": 7.4, "count": 5815 },
+    "details": {
+      "overview": "Ignoring threats to his life, Harry returns to Hogwarts to investigate \u00c3\u00a2\u00e2\u0082\u00ac\u00c5\u00a1\u00c3\u0083\u00e2\u0080\u009e\u00c3\u0083\u00c2\u00ac aided by Ron and Hermione \u00c3\u00a2\u00e2\u0082\u00ac\u00c5\u00a1\u00c3\u0083\u00e2\u0080\u009e\u00c3\u0083\u00c2\u00ac a mysterious series of attacks.",
+      "genres": [
+        { "id": 12, "name": "Adventure" },
+        { "id": 14, "name": "Fantasy" },
+        { "id": 10751, "name": "Family" }
+      ]
+    }
+  },
+  {
+    "id": 411,
+    "tmdb_id": 679,
+    "imdb_id": "tt0090605",
+    "release_date": "1986-07-18",
+    "title": "Aliens",
+    "runtime": 137,
+    "revenue": 183316455,
+    "tagline": "This Time It's War",
+    "poster": "/r1x5JGpyqZU8PYhbs4UcrO1Xb6x.jpg",
+    "backdrop": "/jMBpJFRtrtIXymer93XLavPwI3P.jpg",
+    "ratings": { "popularity": 51.761179, "average": 7.7, "count": 3220 },
+    "details": {
+      "overview": "When Ripley's lifepod is found by a salvage crew over 50 years later, she finds that terra-formers are on the very planet they found the alien species. When the company sends a family of colonists out to investigate her story, all contact is lost with the planet and colonists. They enlist Ripley and the colonial marines to return and search for answers.",
+      "genres": [
+        { "id": 27, "name": "Horror" },
+        { "id": 28, "name": "Action" },
+        { "id": 53, "name": "Thriller" },
+        { "id": 878, "name": "Science Fiction" }
+      ]
+    }
+  },
+  {
+    "id": 352,
+    "tmdb_id": 681,
+    "imdb_id": "tt0066995",
+    "release_date": "1971-12-13",
+    "title": "Diamonds Are Forever",
+    "runtime": 120,
+    "revenue": 116019547,
+    "tagline": "The man who made 007 a household number",
+    "poster": "/tOrCHtj4uUOt5p57F3SUwWbsQiE.jpg",
+    "backdrop": "/pyTDtQCn5sG8gi2zkM5ZylSNmtJ.jpg",
+    "ratings": { "popularity": 32.00491, "average": 6.3, "count": 553 },
+    "details": {
+      "overview": "Diamonds are stolen only to be sold again in the international market. James Bond infiltrates a smuggling mission to find out who\u00c3\u00a2\u00e2\u0082\u00ac\u00e2\u0084\u00a2s guilty. The mission takes him to Las Vegas where Bond meets his archenemy Blofeld.",
+      "genres": [
+        { "id": 12, "name": "Adventure" },
+        { "id": 28, "name": "Action" },
+        { "id": 53, "name": "Thriller" }
+      ]
+    }
+  },
+  {
+    "id": 1116,
+    "tmdb_id": 691,
+    "imdb_id": "tt0076752",
+    "release_date": "1977-07-07",
+    "title": "The Spy Who Loved Me",
+    "runtime": 125,
+    "revenue": 185438673,
+    "tagline": "It's the BIGGEST. It's the BEST. It's BOND. And B-E-Y-O-N-D.",
+    "poster": "/3ZxHKFxMYvAko680DsRgAZKWcLi.jpg",
+    "backdrop": "/8lRdfsmJjUXQU3DMOOB3vVIhJxP.jpg",
+    "ratings": { "popularity": 29.781451, "average": 6.6, "count": 507 },
+    "details": {
+      "overview": "Russian and British submarines with nuclear missiles on board both vanish from sight without a trace. England and Russia both blame each other as James Bond tries to solve the riddle of the disappearing ships. But the KGB also has an agent on the case.",
+      "genres": [
+        { "id": 12, "name": "Adventure" },
+        { "id": 28, "name": "Action" },
+        { "id": 53, "name": "Thriller" }
+      ]
+    }
+  },
+  {
+    "id": 1927,
+    "tmdb_id": 699,
+    "imdb_id": "tt0082398",
+    "release_date": "1981-06-23",
+    "title": "For Your Eyes Only",
+    "runtime": 127,
+    "revenue": 195312802,
+    "tagline": "No one comes close to James Bond, 007.",
+    "poster": "/z57s6bpnYqokqr5HVNOBQFv5e1j.jpg",
+    "backdrop": "/z7Jp7HAsY7MqXzPYzTjJnmOQk2r.jpg",
+    "ratings": { "popularity": 23.765123, "average": 6.3, "count": 490 },
+    "details": {
+      "overview": "A British spy ship has sunk and on board was a hi-tech encryption device. James Bond is sent to find the device that holds British launching instructions before the enemy Soviets get to it first.",
+      "genres": [
+        { "id": 12, "name": "Adventure" },
+        { "id": 28, "name": "Action" },
+        { "id": 53, "name": "Thriller" }
+      ]
+    }
+  },
+  {
+    "id": 1909,
+    "tmdb_id": 707,
+    "imdb_id": "tt0090264",
+    "release_date": "1985-05-24",
+    "title": "A View to a Kill",
+    "runtime": 131,
+    "revenue": 152427960,
+    "tagline": "Has James Bond finally met his match?",
+    "poster": "/arJF829RP9cYvh0NU70dC5TtXSa.jpg",
+    "backdrop": "/hvGWyyC8wER1I8ExSXNtFBs7Mgd.jpg",
+    "ratings": { "popularity": 12.840798, "average": 6, "count": 506 },
+    "details": {
+      "overview": "A newly developed microchip designed by Zorin Industries for the British Government that can survive the electromagnetic radiation caused by a nuclear explosion has landed in the hands of the KGB. James Bond must find out how and why. His suspicions soon lead him to big industry leader Max Zorin.",
+      "genres": [
+        { "id": 12, "name": "Adventure" },
+        { "id": 28, "name": "Action" },
+        { "id": 53, "name": "Thriller" }
+      ]
+    }
+  },
+  {
+    "id": 1060,
+    "tmdb_id": 708,
+    "imdb_id": "tt0093428",
+    "release_date": "1987-06-29",
+    "title": "The Living Daylights",
+    "runtime": 130,
+    "revenue": 191185897,
+    "tagline": "Licensed to thrill.",
+    "poster": "/jcP0sarQXmx7XgwNoxJtqbllNyM.jpg",
+    "backdrop": "/ebaq0ecL1Tu39rIExfHwE4ToFl2.jpg",
+    "ratings": { "popularity": 28.189038, "average": 6.2, "count": 440 },
+    "details": {
+      "overview": "James Bond helps a Russian General escape into the west. He soon finds out that the KGB wants to kill him for helping the General. A little while later the General is kidnapped from the Secret Service leading 007 to be suspicious.",
+      "genres": [
+        { "id": 28, "name": "Action" },
+        { "id": 12, "name": "Adventure" },
+        { "id": 53, "name": "Thriller" }
+      ]
+    }
+  },
+  {
+    "id": 180,
+    "tmdb_id": 709,
+    "imdb_id": "tt0097742",
+    "release_date": "1989-07-07",
+    "title": "Licence to Kill",
+    "runtime": 133,
+    "revenue": 156167015,
+    "tagline": "His bad side is a dangerous place to be.",
+    "poster": "/uDLy7XzeEpvrINQEe5pzefmw3by.jpg",
+    "backdrop": "/p6VFbg5lhWj0RCgXf5dj6IDMPvt.jpg",
+    "ratings": { "popularity": 25.137888, "average": 5.9, "count": 541 },
+    "details": {
+      "overview": "James Bond and his American colleague Felix Leiter arrest the drug lord Sanchez who succeeds in escaping and takes revenge on Felix and his wife. Bond knows but just one thing: revenge.",
+      "genres": [
+        { "id": 12, "name": "Adventure" },
+        { "id": 28, "name": "Action" },
+        { "id": 53, "name": "Thriller" }
+      ]
+    }
+  },
+  {
+    "id": 1096,
+    "tmdb_id": 710,
+    "imdb_id": "tt0113189",
+    "release_date": "1995-11-16",
+    "title": "GoldenEye",
+    "runtime": 130,
+    "revenue": 352194034,
+    "tagline": "No limits. No fears. No substitutes.",
+    "poster": "/z0ljRnNxIO7CRBhLEO0DvLgAFPR.jpg",
+    "backdrop": "/5jVWJiPpmk216Q7vjjlwNXXE6ee.jpg",
+    "ratings": { "popularity": 14.686036, "average": 6.6, "count": 1174 },
+    "details": {
+      "overview": "James Bond must unmask the mysterious head of the Janus Syndicate and prevent the leader from utilizing the GoldenEye weapons system to inflict devastating revenge on Britain.",
+      "genres": [
+        { "id": 12, "name": "Adventure" },
+        { "id": 28, "name": "Action" },
+        { "id": 53, "name": "Thriller" }
+      ]
+    }
+  },
+  {
+    "id": 291,
+    "tmdb_id": 712,
+    "imdb_id": "tt0109831",
+    "release_date": "1994-03-09",
+    "title": "Four Weddings and a Funeral",
+    "runtime": 117,
+    "revenue": 254700832,
+    "tagline": "Five good reasons to stay single.",
+    "poster": "/qa72G2VS0bpxms6yo0tI9vsHm2e.jpg",
+    "backdrop": "/ejFaHWnDP29z7ePw2cJVOsWvOvH.jpg",
+    "ratings": { "popularity": 21.990345, "average": 6.6, "count": 632 },
+    "details": {
+      "overview": "Four Weddings And A Funeral is a British comedy about a British Man named Charles and an American Woman named Carrie who go through numerous weddings before they determine if they are right for one another.",
+      "genres": [
+        { "id": 35, "name": "Comedy" },
+        { "id": 18, "name": "Drama" },
+        { "id": 10749, "name": "Romance" }
+      ]
+    }
+  },
+  {
+    "id": 1643,
+    "tmdb_id": 714,
+    "imdb_id": "tt0120347",
+    "release_date": "1997-12-11",
+    "title": "Tomorrow Never Dies",
+    "runtime": 119,
+    "revenue": 333011068,
+    "tagline": "Yesterday is a memory. Today is history. Tomorrow is in the hands of one man.",
+    "poster": "/gZm002w7q9yLOkltxT76TWGfdZX.jpg",
+    "backdrop": "/yUHP5AectnhcG4dWJ53L3uQvOgu.jpg",
+    "ratings": { "popularity": 17.159576, "average": 6, "count": 925 },
+    "details": {
+      "overview": "A deranged media mogul is staging international incidents to pit the world's superpowers against each other. Now 007 must take on this evil mastermind in an adrenaline-charged battle to end his reign of terror and prevent global pandemonium.",
+      "genres": [
+        { "id": 12, "name": "Adventure" },
+        { "id": 28, "name": "Action" },
+        { "id": 53, "name": "Thriller" }
+      ]
+    }
+  },
+  {
+    "id": 601,
+    "tmdb_id": 744,
+    "imdb_id": "tt0092099",
+    "release_date": "1986-05-16",
+    "title": "Top Gun",
+    "runtime": 110,
+    "revenue": 356830601,
+    "tagline": "Up there with the best of the best.",
+    "poster": "/xUuHj3CgmZQ9P2cMaqQs4J0d4Zc.jpg",
+    "backdrop": "/jILeJ60zPpIjjJHGSmIeY4eO30t.jpg",
+    "ratings": { "popularity": 130.301019, "average": 6.7, "count": 1698 },
+    "details": {
+      "overview": "For Lieutenant Pete 'Maverick' Mitchell and his friend and Co-Pilot Nick 'Goose' Bradshaw being accepted into an elite training school for fighter pilots is a dream come true.  A tragedy, as well as personal demons, threaten Pete's dreams of becoming an Ace pilot.",
+      "genres": [
+        { "id": 28, "name": "Action" },
+        { "id": 10749, "name": "Romance" },
+        { "id": 10752, "name": "War" }
+      ]
+    }
+  },
+  {
+    "id": 1061,
+    "tmdb_id": 746,
+    "imdb_id": "tt0093389",
+    "release_date": "1987-10-21",
+    "title": "The Last Emperor",
+    "runtime": 163,
+    "revenue": 43984230,
+    "tagline": "He was the Lord of Ten Thousand Years, the absolute monarch of China. He was born to rule a world of ancient tradition. Nothing prepared him for our world of change.",
+    "poster": "/7CZSCaGxCD2HXo8LrdcW183moqJ.jpg",
+    "backdrop": "/k29qVmwWwR0i5A1UMIws1Vmv6hV.jpg",
+    "ratings": { "popularity": 11.076971, "average": 7.4, "count": 355 },
+    "details": {
+      "overview": "A dramatic history of Pu Yi, the last of the Emperors of China, from his lofty birth and brief reign in the Forbidden City, the object of worship by half a billion people; through his abdication, his decline and dissolute lifestyle; his exploitation by the invading Japanese, and finally to his obscure existence as just another peasant worker in the People's Republic.",
+      "genres": [
+        { "id": 18, "name": "Drama" },
+        { "id": 36, "name": "History" }
+      ]
+    }
+  },
+  {
+    "id": 584,
+    "tmdb_id": 581734,
+    "imdb_id": "tt9770150",
+    "release_date": "2020-12-04",
+    "title": "Nomadland",
+    "runtime": 108,
+    "revenue": 14784114,
+    "tagline": "See you down the road.",
+    "poster": "/8Vc5EOUEIF1EUXuX9eLFf7BvN3P.jpg",
+    "backdrop": "/563sRDK3rZS31TXCdTY4lfcwrNK.jpg",
+    "ratings": { "popularity": 21.5, "average": 7.3, "count": 2545 },
+    "details": {
+      "overview": "A woman in her sixties embarks on a journey through the western United States after losing everything in the Great Recession, living as a van-dwelling modern-day nomad.",
+      "genres": [{ "id": 18, "name": "Drama" }]
+    }
+  },
+  {
+    "id": 2523,
+    "tmdb_id": 765,
+    "imdb_id": "tt0092991",
+    "release_date": "1987-03-13",
+    "title": "Evil Dead II",
+    "runtime": 84,
+    "revenue": 5923044,
+    "tagline": "The Sequel To The Ultimate Experience In Grueling Terror",
+    "poster": "/xRixTGkED0TTc1vgfMOuwyWxKO5.jpg",
+    "backdrop": "/jyRk8ykqLOXaVadZ0aWRDd89gMP.jpg",
+    "ratings": { "popularity": 37.520764, "average": 7.6, "count": 742 },
+    "details": {
+      "overview": "Ash Williams and his girlfriend Linda find a log cabin in the woods with a voice recording from an archeologist who had recorded himself reciting ancient chants from \u00c3\u00a2\u00e2\u0082\u00ac\u00c5\u00a1\u00c3\u0083\u00e2\u0080\u009e\u00c3\u0083\u00c2\u00baThe Book of the Dead.\u00c3\u00a2\u00e2\u0082\u00ac\u00c5\u00a1\u00c3\u0083\u00e2\u0080\u009e\u00c3\u0083\u00c2\u00b9 As they play the recording an evil power is unleashed taking over Linda\u00c3\u00a2\u00e2\u0082\u00ac\u00c5\u00a1\u00c3\u0083\u00e2\u0080\u009e\u00c3\u0083\u00c2\u00b4s body.",
+      "genres": [
+        { "id": 27, "name": "Horror" },
+        { "id": 35, "name": "Comedy" },
+        { "id": 14, "name": "Fantasy" }
+      ]
+    }
+  },
+  {
+    "id": 962,
+    "tmdb_id": 767,
+    "imdb_id": "tt0417741",
+    "release_date": "2009-07-07",
+    "title": "Harry Potter and the Half-Blood Prince",
+    "runtime": 153,
+    "revenue": 933959197,
+    "tagline": "Dark Secrets Revealed",
+    "poster": "/z7uo9zmQdQwU5ZJHFpv2Upl30i1.jpg",
+    "backdrop": "/urDWNffjwmNi5IQaezw9GwqkUXa.jpg",
+    "ratings": { "popularity": 208.083723, "average": 7.4, "count": 5293 },
+    "details": {
+      "overview": "As Harry begins his sixth year at Hogwarts, he discovers an old book marked as 'Property of the Half-Blood Prince', and begins to learn more about Lord Voldemort's dark past.",
+      "genres": [
+        { "id": 12, "name": "Adventure" },
+        { "id": 14, "name": "Fantasy" },
+        { "id": 10751, "name": "Family" }
+      ]
+    }
+  },
+  {
+    "id": 1775,
+    "tmdb_id": 361743,
+    "imdb_id": "tt1745960",
+    "release_date": "2022-05-24",
+    "title": "Top Gun: Maverick",
+    "runtime": 131,
+    "revenue": 1488732821,
+    "tagline": "Feel the need... The need for speed.",
+    "poster": "/62HCnUTziyWcpDaBO2i1DX17ljH.jpg",
+    "backdrop": "/AaV1YIdWKnjAIAOe8UUKBFm327v.jpg",
+    "ratings": { "popularity": 498.1, "average": 8.3, "count": 5949 },
+    "details": {
+      "overview": "After more than thirty years of service as one of the Navy\u00e2\u0080\u0099s top aviators, and dodging the advancement in rank that would ground him, Pete \u00e2\u0080\u009cMaverick\u00e2\u0080\u009d Mitchell finds himself training a detachment of TOP GUN graduates for a specialized mission the likes of which no living pilot has ever seen.",
+      "genres": [
+        { "id": 28, "name": "Action" },
+        { "id": 18, "name": "Drama" }
+      ]
+    }
+  }
+]

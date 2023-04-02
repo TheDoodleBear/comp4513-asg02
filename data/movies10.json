@@ -1,0 +1,201 @@
+[
+  {
+    "id": 13,
+    "tmdb_id": 14,
+    "imdb_id": "tt0169547",
+    "release_date": "1999-09-15",
+    "title": "American Beauty",
+    "runtime": 122,
+    "revenue": 356296601,
+    "tagline": "Look closer.",
+    "poster": "/wby9315QzVKdW9BonAefg8jGTTb.jpg",
+    "backdrop": "/DztBnZaqmla2sGUW9s8AyOmskT.jpg",
+    "ratings": { "popularity": 33.726578, "average": 8, "count": 10794 },
+    "details": {
+      "overview": "Lester Burnham, a depressed suburban father in a mid-life crisis, decides to turn his hectic life around after developing an infatuation with his daughter's attractive friend.",
+      "genres": [{ "id": 18, "name": "Drama" }]
+    }
+  },
+  {
+    "id": 91,
+    "tmdb_id": 24,
+    "imdb_id": "tt0266697",
+    "release_date": "2003-10-10",
+    "title": "Kill Bill: Vol. 1",
+    "runtime": 111,
+    "revenue": 180949000,
+    "tagline": "Go for the kill.",
+    "poster": "/v7TaX8kXMXs5yFFGR41guUDNcnB.jpg",
+    "backdrop": "/lVy5Zqcty2NfemqKYbVJfdg44rK.jpg",
+    "ratings": { "popularity": 44.261865, "average": 7.7, "count": 4949 },
+    "details": {
+      "overview": "An assassin is shot at the altar by her ruthless employer, Bill and other members of their assassination circle \u00c3\u00a2\u00e2\u0082\u00ac\u00e2\u0080\u009c but 'The Bride' lives to plot her vengeance. Setting out for some payback, she makes a death list and hunts down those who wronged her, saving Bill for last.",
+      "genres": [
+        { "id": 28, "name": "Action" },
+        { "id": 80, "name": "Crime" }
+      ]
+    }
+  },
+  {
+    "id": 1249,
+    "tmdb_id": 25,
+    "imdb_id": "tt0418763",
+    "release_date": "2005-11-04",
+    "title": "Jarhead",
+    "runtime": 125,
+    "revenue": 96889998,
+    "tagline": "Welcome to the suck.",
+    "poster": "/55WJCdayHwoXJwRv3prpqscHt2q.jpg",
+    "backdrop": "/bQ8fRUaitJvi54O2lUT6Ta7FVHK.jpg",
+    "ratings": { "popularity": 9.997032, "average": 6.6, "count": 765 },
+    "details": {
+      "overview": "Jarhead is a film about a US Marine Anthony Swofford\u00c3\u00a2\u00e2\u0082\u00ac\u00c5\u00a1\u00c3\u0083\u00e2\u0080\u009e\u00c3\u0083\u00c2\u00b4s experience in the Gulf War. After putting up with an arduous boot camp, Swafford and his unit are sent to the Persian Gulf where they are earger to fight but are forced to stay back from the action. Meanwhile Swofford gets news of his girlfriend is cheating on him. Desperately he wants to kill someone and finally put his training to use.",
+      "genres": [
+        { "id": 18, "name": "Drama" },
+        { "id": 10752, "name": "War" }
+      ]
+    }
+  },
+  {
+    "id": 2945,
+    "tmdb_id": 28,
+    "imdb_id": "tt0078788",
+    "release_date": "1979-08-15",
+    "title": "Apocalypse Now",
+    "runtime": 153,
+    "revenue": 89460381,
+    "tagline": "This is the end...",
+    "poster": "/gQB8Y5RCMkv2zwzFHbUJX3kAhvA.jpg",
+    "backdrop": "/9Qs9oyn4iE8QtQjGZ0Hp2WyYNXT.jpg",
+    "ratings": { "popularity": 42.5963, "average": 8, "count": 2055 },
+    "details": {
+      "overview": "At the height of the Vietnam war, Captain Benjamin Willard is sent on a dangerous mission that, officially, \"does not exist, nor will it ever exist.\" His goal is to locate - and eliminate - a mysterious Green Beret Colonel named Walter Kurtz, who has been leading his personal army on illegal guerrilla missions into enemy territory.",
+      "genres": [
+        { "id": 18, "name": "Drama" },
+        { "id": 10752, "name": "War" }
+      ]
+    }
+  },
+  {
+    "id": 204,
+    "tmdb_id": 35,
+    "imdb_id": "tt0462538",
+    "release_date": "2007-07-25",
+    "title": "The Simpsons Movie",
+    "runtime": 87,
+    "revenue": 527068851,
+    "tagline": "See our family. And feel better about yours.",
+    "poster": "/gzb6P78zeFTnv9eoFYnaJ2YrZ5q.jpg",
+    "backdrop": "/8ln5VUVk7gnNGIb2VNgw8nICDVt.jpg",
+    "ratings": { "popularity": 72.302911, "average": 6.9, "count": 2264 },
+    "details": {
+      "overview": "After Homer accidentally pollutes the town's water supply, Springfield is encased in a gigantic dome by the EPA and the Simpsons are declared fugitives.",
+      "genres": [
+        { "id": 16, "name": "Animation" },
+        { "id": 35, "name": "Comedy" },
+        { "id": 10751, "name": "Family" }
+      ]
+    }
+  },
+  {
+    "id": 816,
+    "tmdb_id": 59,
+    "imdb_id": "tt0399146",
+    "release_date": "2005-09-23",
+    "title": "A History of Violence",
+    "runtime": 96,
+    "revenue": 60740827,
+    "tagline": "Tom Stall had the perfect life... until he became a hero.",
+    "poster": "/rrc6GiAKHDrUjp8OmdVng9hRWBn.jpg",
+    "backdrop": "/5EEdDTV0IBxJ2J4jDUDvl076v7f.jpg",
+    "ratings": { "popularity": 25.119707, "average": 6.9, "count": 832 },
+    "details": {
+      "overview": "An average family is thrust into the spotlight after the father commits a seemingly self-defense murder at his diner.",
+      "genres": [
+        { "id": 18, "name": "Drama" },
+        { "id": 53, "name": "Thriller" },
+        { "id": 80, "name": "Crime" }
+      ]
+    }
+  },
+  {
+    "id": 914,
+    "tmdb_id": 66,
+    "imdb_id": "tt0118548",
+    "release_date": "1997-02-14",
+    "title": "Absolute Power",
+    "runtime": 121,
+    "revenue": 50068310,
+    "tagline": "Corrupts Absolutely.",
+    "poster": "/xX9gmwtnTi0Y8WcTF7Jsg9Hdp6W.jpg",
+    "backdrop": "/n7U0FEirHej1yQIy2mAzDtF9wBz.jpg",
+    "ratings": { "popularity": 15.66124, "average": 6.4, "count": 223 },
+    "details": {
+      "overview": "A master thief coincidentally is robbing a house where a murder in which the President of The United States is involved occurs in front of his eyes. He is forced to run yet may hold evidence that could convict the President. A political thriller from and starring Clint Eastwood and based on a novel by David Baldacci.",
+      "genres": [
+        { "id": 80, "name": "Crime" },
+        { "id": 18, "name": "Drama" },
+        { "id": 53, "name": "Thriller" }
+      ]
+    }
+  },
+  {
+    "id": 1235,
+    "tmdb_id": 69,
+    "imdb_id": "tt0358273",
+    "release_date": "2005-09-13",
+    "title": "Walk the Line",
+    "runtime": 136,
+    "revenue": 186438883,
+    "tagline": "Love is a burning thing.",
+    "poster": "/p8lPTjvjOjTfvC1E9pmMwcF9vkn.jpg",
+    "backdrop": "/pMBKzEotLUzk3NuQiyVjZEDlH70.jpg",
+    "ratings": { "popularity": 11.476443, "average": 7.3, "count": 718 },
+    "details": {
+      "overview": "A chronicle of country music legend Johnny Cash's life, from his early days on an Arkansas cotton farm to his rise to fame with Sun Records in Memphis, where he recorded alongside Elvis Presley, Jerry Lee Lewis and Carl Perkins.",
+      "genres": [
+        { "id": 18, "name": "Drama" },
+        { "id": 10402, "name": "Music" },
+        { "id": 10749, "name": "Romance" }
+      ]
+    }
+  },
+  {
+    "id": 1781,
+    "tmdb_id": 71,
+    "imdb_id": "tt0249462",
+    "release_date": "2000-05-18",
+    "title": "Billy Elliot",
+    "runtime": 110,
+    "revenue": 110000000,
+    "tagline": "Inside every one of us is a special talent waiting to come out. The trick is finding it.",
+    "poster": "/nOr5diUZxphmAD3li9aiILyI28F.jpg",
+    "backdrop": "/9B4198IzCI0POkUIVu5yQ2s7Pzr.jpg",
+    "ratings": { "popularity": 12.158424, "average": 7.4, "count": 750 },
+    "details": {
+      "overview": "Set against the background of the 1984 Miner's Strike, Billy Elliot is an 11 year old boy who stumbles out of the boxing ring and onto the ballet floor. He faces many trials and triumphs as he strives to conquer his family's set ways, inner conflict, and standing on his toes!",
+      "genres": [
+        { "id": 18, "name": "Drama" },
+        { "id": 35, "name": "Comedy" },
+        { "id": 10402, "name": "Music" }
+      ]
+    }
+  },
+  {
+    "id": 2356,
+    "tmdb_id": 73,
+    "imdb_id": "tt0120586",
+    "release_date": "1998-10-30",
+    "title": "American History X",
+    "runtime": 119,
+    "revenue": 23875127,
+    "tagline": "Some Legacies Must End.",
+    "poster": "/c2gsmSQ2Cqv8zosqKOCwRS0GFBS.jpg",
+    "backdrop": "/6qHI1IYj7QlLSCwHRzkL62X175s.jpg",
+    "ratings": { "popularity": 42.157166, "average": 8.2, "count": 3016 },
+    "details": {
+      "overview": "Derek Vineyard is paroled after serving 3 years in prison for killing two thugs who tried to break into/steal his truck. Through his brother, Danny Vineyard's narration, we learn that before going to prison, Derek was a skinhead and the leader of a violent white supremacist gang that committed acts of racial crime throughout L.A. and his actions greatly influenced Danny. Reformed and fresh out of prison, Derek severs contact with the gang and becomes determined to keep Danny from going down the same violent path as he did.",
+      "genres": [{ "id": 18, "name": "Drama" }]
+    }
+  }
+]

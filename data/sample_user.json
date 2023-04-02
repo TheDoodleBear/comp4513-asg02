@@ -1,0 +1,22 @@
+{
+  "id": 4,
+  "details": {
+    "firstname": "Bernete",
+    "lastname": "Tume",
+    "city": "Toronto",
+    "country": "Canada"
+  },
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/women/4.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/4.jpg"
+  },
+  "membership": {
+    "date_joined": "2019-01-18",
+    "last-update": "2019-02-02",
+    "likes": 0
+  },
+  "email": "btume3@ehow.com",
+  "password_bcrypt": "$2a$12$p282R3brelXc69iHw3QP9.AF4IwIGnYNr6cs4O6Y0T9InrX5dfde.",
+  "apikey": "ae61e0888029315a5ef35582306508f6",
+  "favorites": []
+}

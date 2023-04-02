@@ -1,0 +1,17 @@
+{
+  "id": 13,
+  "tmdb_id": 14,
+  "imdb_id": "tt0169547",
+  "release_date": "1999-09-15",
+  "title": "American Beauty",
+  "runtime": 122,
+  "revenue": 356296601,
+  "tagline": "Look closer.",
+  "poster": "/wby9315QzVKdW9BonAefg8jGTTb.jpg",
+  "backdrop": "/DztBnZaqmla2sGUW9s8AyOmskT.jpg",
+  "ratings": { "popularity": 33.726578, "average": 8, "count": 10794 },
+  "details": {
+    "overview": "Lester Burnham, a depressed suburban father in a mid-life crisis, decides to turn his hectic life around after developing an infatuation with his daughter's attractive friend.",
+    "genres": [{ "id": 18, "name": "Drama" }]
+  }
+}
