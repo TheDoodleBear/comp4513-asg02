@@ -16,8 +16,13 @@ app.use(express.urlencoded({extended: true}));
 // Route handlers
 const moviesRouter = require("./handlers/moviesRouter.js");
 moviesRouter.handleAllMovies(app, Movie);
-moviesRouter.handleSingleMovie(app, Movie);
+moviesRouter.handleMovieLimit(app, Movie);
+moviesRouter.handleMovieID(app, Movie);
+moviesRouter.handleMovieTMDB(app, Movie);
 moviesRouter.handleMoviebyYear(app, Movie);
+moviesRouter.handleMoviebyRating(app, Movie);
+moviesRouter.handleMovieTitle(app, Movie);
+moviesRouter.handleMovieGenre(app, Movie);
 
 // Establish Connection to database
 require("./handlers/dbConnection.js").connect();
