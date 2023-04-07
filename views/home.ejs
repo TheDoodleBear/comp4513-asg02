@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <%- include('./partials/head'); %>
+</head>
+
+<body>
+    <%- include('./partials/header'); %>
+        <main class="book">
+            <%- include('./partials/sidebar'); %>
+                <section class="pagecontent">
+                    Welcome
+                    <%= user.details.firstname %>
+                        <%= user.details.lastname %>
+
+
+                </section>
+        </main>
+        <%- include('./partials/footer'); %>
+</body>
+
+</html>
