@@ -12,7 +12,7 @@
 | Primary Contributor | Lorenzo Young |
 | Email | lyoun306@mtroyal.ca |
 
-# Example API Strings to Test
+# Example API Calls to Test
 ## /api/movies
 - https://comp4513-asg02.onrender.com/api/movies/
 ## /api/movies/limit/:num

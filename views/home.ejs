@@ -12,6 +12,33 @@
                 <section class="ml-6 text-gray-500 w-full h-full text-center align-middle">
                     <h1 class="text-6xl">Login Successful</h1>
                     <span class="text-4xl">Logged in user: <%= user.email %></span>
+                    <h2>Example API Calls</h2>
+                    <ul class="mt-3  text-sm font-medium text-gray-500 dark:text-gray-400 sm:mt-0 ">
+                        <li class="p-2">
+                            <a href="https://comp4513-asg02.onrender.com/api/movies/" class="mr-4 hover:underline md:mr-6 ">All Movies</a>
+                        </li>
+                        <li class="p-2">
+                            <a href="https://comp4513-asg02.onrender.com/api/movies/limit/24 " class="mr-4 hover:underline md:mr-6 "><span>/api/movies/limit/:num</span> Limit = 24</a>
+                        </li>
+                        <li class="p-2">
+                            <a href="https://comp4513-asg02.onrender.com/api/movies/13" class="mr-4 hover:underline md:mr-6 "><span>/api/movies/:id</span> ID# 13</a>
+                        </li>
+                        <li class="p-2">
+                            <a href="https://comp4513-asg02.onrender.com/api/movies/tmdb/24 " class="mr-4 hover:underline md:mr-6 "><span>/api/movies/tmdb/:id</span> TMDB ID# 24</a>
+                        </li>
+                        <li class="p-2">
+                            <a href="https://comp4513-asg02.onrender.com/api/movies/year/2000/2010 " class="mr-4 hover:underline md:mr-6 "><span>/api/movies/year/:min/:max</span> Min: 2000, Max: 2010</a>
+                        </li>
+                        <li class="p-2">
+                            <a href="https://comp4513-asg02.onrender.com/api/movies/ratings/3/5" class="mr-4 hover:underline md:mr-6 "><span>/api/movies/ratings/:min/:max</span> Min: 3, Max: 5</a>
+                        </li>
+                        <li class="p-2">
+                            <a href="https://comp4513-asg02.onrender.com/api/movies/title/ameri" class="mr-4 hover:underline md:mr-6 "><span>/api/movies/title/:text</span> Text like "ameri"</a>
+                        </li>
+                        <li class="p-2">
+                            <a href="https://comp4513-asg02.onrender.com/api/movies/genre/drama" class="mr-4 hover:underline md:mr-6 "><span>/api/movies/genre/:name</span> Genre: Drama</a>
+                        </li>
+                    </ul>
                 </section>
             </main>
             <%- include('./partials/footer'); %>
