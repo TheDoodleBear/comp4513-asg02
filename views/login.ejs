@@ -4,42 +4,43 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="../styles.css">
+    <title>Log In</title>
+</head>
 
-    <body class=" bg-gradient-radial from-blue-400 to-sky-700 flex justify-center items-center h-screen">
+<body class=" bg-gradient-radial from-blue-400 to-sky-700 flex justify-center items-center h-screen">
 
-        <section class="bg-white p-6 rounded-lg w-2/4">
-            <div class="p-6 rounded-lg">
-                <h1 class="text-2xl font-bold mb-4 text-center">Login</h1>
-                <div>
-                    <form action="/login" method="post">
-                        <div class="field" class="mb-4">
-                            <label class="block text-gray-700 font-bold mb-2">Email</label>
-                            <div class="control">
-                                <input class="p-2 rounded-lg block text-gray-700 font-bold mb-2 border-solid border-black	bg-neutral-300 w-full h-[45px]" type="email" placeholder="e.g. zpochet2@apple.com" name="email" id="email">
-                            </div>
+    <section class="bg-white p-6 rounded-lg w-2/4">
+        <div class="p-6 rounded-lg">
+            <h1 class="text-2xl font-bold mb-4 text-center">User Log In</h1>
+            <div>
+                <form action="/login" method="post">
+                    <div class="field" class="mb-4">
+                        <label class="block text-gray-700 font-bold mb-2">Email</label>
+                        <div class="control">
+                            <input class="p-2 rounded-lg block text-gray-700 font-bold mb-2 border-solid border-black	bg-neutral-300 w-full h-[45px]" type="email" placeholder="e.g. zpochet2@apple.com" name="email" id="email">
                         </div>
+                    </div>
 
-                        <div class="field" class="mb-4">
-                            <label class="block text-gray-700 font-bold mb-2">Password</label>
-                            <div class="control">
-                                <input class="p-2 rounded-lg block text-gray-700 font-bold mb-2 border-solid border-black bg-neutral-300 w-full h-[45px]" type="password" name="password" id="password" placeholder="mypassword">
-                            </div>
+                    <div class="field" class="mb-4">
+                        <label class="block text-gray-700 font-bold mb-2">Password</label>
+                        <div class="control">
+                            <input class="p-2 rounded-lg block text-gray-700 font-bold mb-2 border-solid border-black bg-neutral-300 w-full h-[45px]" type="password" name="password" id="password" placeholder="mypassword">
                         </div>
-                        <div class="flex justify-center">
-                            <button type="submit" class=" text-white font-bold py-2 px-4 border border-blue-700 rounded bg-gradient-radial from-cyan-400 to-blue-500 hover:from-pink-300 hover:to-rose-950">Login</button>
-                        </div>
-                        <% if (message) { %>
-                            <p id="msg2" class="help is-danger">
-                                <%= message %>
-                            </p>
-                            <% } %>
+                    </div>
+                    <div class="flex justify-center">
+                        <button type="submit" class=" text-white font-bold py-2 px-4 border border-blue-700 rounded bg-gradient-radial from-cyan-400 to-blue-500 hover:from-pink-300 hover:to-rose-950">Login</button>
+                    </div>
+                    <% if (message) { %>
+                        <p id="msg2" class="help is-danger">
+                            <%= message %>
+                        </p>
+                        <% } %>
 
-
-                    </form>
-                </div>
+                </form>
             </div>
-        </section>
-    </body>
+        </div>
+    </section>
+</body>
 
 </html>

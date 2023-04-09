@@ -5,17 +5,17 @@
     <%- include('./partials/head'); %>
 </head>
 
-<body>
-    <%- include('./partials/header'); %>
-        <main>
-            <%- include('./partials/sidebar'); %>
-                <section>
-
-                    <h2>Login Successful</h2>
-
+<body class=" bg-gradient-radial from-blue-400 to-sky-700 h-[1080px]">
+    <div class=" flex flex-wrap h-full">
+        <%- include('./partials/header'); %>
+            <main class="bg-white rounded-lg shadow m-4 dark:bg-gray-800 w-screen h-3/4">
+                <section class="ml-6 text-gray-500 w-full h-full text-center align-middle">
+                    <h1 class="text-6xl">Login Successful</h1>
+                    <span class="text-4xl">Logged in user: <%= user.email %></span>
                 </section>
-        </main>
-        <%- include('./partials/footer'); %>
+            </main>
+            <%- include('./partials/footer'); %>
+    </div>
 </body>
 
 </html>
