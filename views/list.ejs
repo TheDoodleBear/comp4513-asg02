@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   <%- include('./partials/head'); %>
+</head>
+<body>
+   <%- include('./partials/header'); %>
+   <main class="book">
+      <%- include('./partials/sidebar'); %>
+<section class="pagecontent">
+   <h1>List of Books</h1>
+   <div class="booklist">
+      <% books.forEach(book => { %>
+         <div>
+            <a href="/site/book/<%= book.isbn10 %>">
+               <img src="/static/images/<%= book.isbn10 %>.jpg" width="100" />
+            </a>                  
+         </div>
+         <h3><%= book.title %></h3>
+      <% }); %>
+   </div>
+</section>      
+   </main>   
+   <%- include('./partials/footer'); %>
+</body>
+</html>

@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   <%- include('./partials/head'); %>
+</head>
+<body>
+   <%- include('./partials/header'); %>
+   <main class="book">
+      <%- include('./partials/sidebar'); %>
+<section class="pagecontent">
+   <article class="book">
+      <div>
+         <img src="/static/images/<%= book.isbn10 %>.jpg"  />
+      </div>
+      <div>
+         <h1><%= book.title %></h1>
+         <p>Year: <span><%= book.year %></span></p>
+         <p>Publisher: <span><%= book.publisher %></span></p>
+         <p>Pages: <span><%= book.production.pages %></span></p>
+         <p>Categories: <span><%= book.category.main %>, <%= book.category.secondary %></span></p>
+      </div>            
+   </article>
+</section>      
+   </main>   
+   <%- include('./partials/footer'); %>
+</body>
+</html>
