@@ -63,7 +63,6 @@ const handleMovieTMDB = (app, Movie) => {
   app.get("/api/movies/tmdb/:id", (req, resp) => {
     Movie.find({tmdb_id: req.params.id})
       .then(data => {
-        console.log(data);
         if (!data.length) {
           resp.json({message: "No data found"});
         } else {

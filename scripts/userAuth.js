@@ -11,8 +11,6 @@ const strategy = new LocalStrategy(localOpt, async (email, password, done) => {
   try {
     // Find the user in the DB associated with this email
     const userChosen = await UserModel.findOne({email: email});
-    console.log("Retrun");
-    console.log(userChosen);
     if (!userChosen) {
       //If the user isn't found in the database, set flash message
       return done(null, false, {message: "Email not found"});
