@@ -1,7 +1,7 @@
 require("dotenv").config();
 const path = require("path");
 const express = require("express");
-const session = require("express-session");
+const session = require("cookie-session");
 const cookieParser = require("cookie-parser");
 const flash = require("express-flash");
 const passport = require("passport");
@@ -60,7 +60,7 @@ moviesRouter.handleMovieGenre(app, Movie);
 require("./handlers/dbConnection.js").connect();
 
 app.get("/", (req, res) => {
-  res.render("home.ejs", {user: req.user});
+  res.render("home.ejs");
 });
 
 // login and logout routers here
