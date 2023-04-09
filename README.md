@@ -15,13 +15,13 @@
 ## Example API Strings
 
 Below are the libraries used for this assignment: 
-- http://localhost:8080/api/movies/
-- http://localhost:8080/api/movies/limit/24
-- http://localhost:8080/api/movies/13
-- http://localhost:8080/api/movies/tmdb/24
-- http://localhost:8080/api/movies/year/2000/2010
-- http://localhost:8080/api/movies/ratings/3/5
-- http://localhost:8080/api/movies/title/ameri
-- http://localhost:8080/api/movies/genre/drama
+- https://comp4513-asg02.onrender.com/api/movies/
+- https://comp4513-asg02.onrender.com/api/movies/limit/24
+- https://comp4513-asg02.onrender.com/api/movies/13
+- https://comp4513-asg02.onrender.com/api/movies/tmdb/24
+- https://comp4513-asg02.onrender.com/api/movies/year/2000/2010
+- https://comp4513-asg02.onrender.com/api/movies/ratings/3/5
+- https://comp4513-asg02.onrender.com/api/movies/title/ameri
+- https://comp4513-asg02.onrender.com/api/movies/genre/drama
 
   
