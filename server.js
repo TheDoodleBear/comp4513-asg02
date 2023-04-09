@@ -56,9 +56,6 @@ moviesRouter.handleMoviebyRating(app, Movie);
 moviesRouter.handleMovieTitle(app, Movie);
 moviesRouter.handleMovieGenre(app, Movie);
 
-//Route handles for User Authentication
-const userRouter = require("./handlers/usersRouter.js");
-
 // Establish Connection to database
 require("./handlers/dbConnection.js").connect();
 
