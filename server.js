@@ -59,15 +59,10 @@ moviesRouter.handleMovieGenre(app, Movie);
 // Establish Connection to database
 require("./handlers/dbConnection.js").connect();
 
-app.get("/", checkLogin.checkAuthentication, (req, res) => {
+app.get("/", (req, res) => {
   res.render("home.ejs", {user: req.user});
 });
-app.get("/site/list", checkLogin.checkAuthentication, (req, res) => {
-  res.render("list.ejs", {books: controller.getAll()});
-});
-app.get("/site/book/:isbn", checkLogin.checkAuthentication, (req, res) => {
-  res.render("book.ejs", {book: controller.findByISBN10(req.params.isbn)});
-});
+
 // login and logout routers here
 app.get("/login", (req, res) => {
   res.render("login.ejs", {message: req.flash("error")});
