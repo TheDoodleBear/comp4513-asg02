@@ -1,3 +1,4 @@
+const checkLogin = require("../scripts/authCheck.js");
 // Query and return all movies from the database
 const handleAllMovies = (app, Movie) => {
   app.get("/api/movies", (req, resp) => {
