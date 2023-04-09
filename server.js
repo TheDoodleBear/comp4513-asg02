@@ -91,7 +91,7 @@ app.use(function(req, res, next) {
   res.status(404).send("Can't find what you are looking for, Sorry!");
 });
 
-const port = process.env.port;
+const port = process.env.PORT || 1000;
 app.listen(port, () => {
   console.log("Server up and listening at port = " + port);
 });
