@@ -1,28 +1,23 @@
 require("dotenv").config();
 const path = require("path");
 const express = require("express");
-const session = require("cookie-session");
+const session = require("express-session");
 const cookieParser = require("cookie-parser");
 const flash = require("express-flash");
 const passport = require("passport");
 const checkLogin = require("./scripts/authCheck.js");
-const app = express();
 
-// serves up static files from the public folder.
-app.use(express.static("public"));
-// also add a path to static
-app.use("/static", express.static(path.join(__dirname, "public")));
+const app = express();
 
 // get database data model
 const Movie = require("./models/Movie");
-const User = require("./models/User");
 
 // tell node to use json and HTTP header features in body-parser
 app.use(express.json());
 app.use(express.urlencoded({extended: true}));
 
 // Express session
-app.use(cookieParser("oreos"));
+app.use(cookieParser());
 app.use(
   session({
     secret: process.env.SECRET,
@@ -31,13 +26,17 @@ app.use(
   })
 );
 
-// view engine setup
-app.set("views", "./views");
-app.set("view engine", "ejs");
-
 // Passport middleware
 app.use(passport.initialize());
 app.use(passport.session());
+
+// view engine setup
+app.set("views", path.join(__dirname, "views"));
+app.set("view engine", "ejs");
+
+// serves up static files from the public folder.
+app.use("/static", express.static(path.join(__dirname, "/public")));
+app.use(express.static("public"));
 
 // use express flash, which will be used for passing messages
 app.use(flash());
@@ -59,7 +58,8 @@ moviesRouter.handleMovieGenre(app, Movie);
 // Establish Connection to database
 require("./handlers/dbConnection.js").connect();
 
-app.get("/", (req, res) => {
+app.get("/", checkLogin.checkAuthentication, (req, res) => {
+  console.log("loaded");
   res.render("home.ejs");
 });
 
